@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Product_ID,Quantity,Order_Date,Order_Time,Delivery_Date,Delivery_Time,Location,Occasion,Hour(Order_time),Hour(Delivery_time),Order_month,Delivery_month,Price (INR),Total Revenue,Diff_order_delivery,Day_name(order_date),Day_name(delivery_date)
+26,C040,6,3,44991,0.210486111,44997,0.254293981,Amroha,Holi,5,6,March,March,1112,3336,6,Monday,Sunday
+62,C074,6,4,44987,0.646423611,44991,0.994212963,Jorhat,Holi,15,23,March,March,1112,4448,4,Thursday,Monday
+32,C065,7,5,44989,0.650474537,44990,0.662615741,Pudukkottai,Holi,15,15,March,March,409,2045,1,Saturday,Sunday
+35,C055,7,5,44987,0.673912037,44990,0.625462963,Asansol,Holi,16,15,March,March,409,2045,3,Thursday,Sunday
+11,C065,16,4,44987,0.84369213,44988,0.972071759,Belgaum,Holi,20,23,March,March,1721,6884,1,Thursday,Friday
+19,C072,62,4,44992,0.333194444,44993,0.128171296,Vijayanagaram,Holi,7,3,March,March,1356,5424,1,Tuesday,Wednesday
+36,C029,66,1,44989,0.436724537,44999,0.343622685,New Delhi,Holi,10,8,March,March,610,610,10,Saturday,Tuesday
+72,C058,26,3,44988,0.659328704,44997,0.732060185,Bally,Holi,15,17,March,March,289,867,9,Friday,Sunday
+73,C057,26,1,44988,0.536527778,44996,0.061527778,Farrukhabad,Holi,12,1,March,March,289,289,8,Friday,Saturday
+84,C032,47,1,44989,0.147106481,44991,0.293287037,Tirupati,Holi,3,7,March,March,1638,1638,2,Saturday,Monday
+85,C041,26,2,44989,0.899537037,44999,0.616921296,Agra,Holi,21,14,March,March,289,578,10,Saturday,Tuesday
+94,C099,69,5,44987,0.618842593,44996,0.343622685,Purnia,Holi,14,8,March,March,998,4990,9,Thursday,Saturday
+110,C075,26,2,44989,0.474814815,44998,0.35244213,Kishanganj,Holi,11,8,March,March,289,578,9,Saturday,Monday
+119,C010,6,4,44989,0.459837963,44997,0.515486111,Fatehpur,Holi,11,12,March,March,1112,4448,8,Saturday,Sunday
+134,C036,69,5,44990,0.800532407,44999,0.207280093,Malda,Holi,19,4,March,March,998,4990,9,Sunday,Tuesday
+137,C070,47,2,44990,0.671111111,44996,0.312048611,Warangal,Holi,16,7,March,March,1638,3276,6,Sunday,Saturday
+140,C015,47,1,44989,0.263599537,44998,0.895543981,Bharatpur,Holi,6,21,March,March,1638,1638,9,Saturday,Monday
+153,C094,16,4,44989,0.510416667,44995,0.253275463,Rewa,Holi,12,6,March,March,1721,6884,6,Saturday,Friday
+158,C007,35,2,44988,0.652974537,44993,0.120150463,Medininagar,Holi,15,2,March,March,1865,3730,5,Friday,Wednesday
+168,C092,35,2,44989,0.650034722,44992,0.460208333,Bidar,Holi,15,11,March,March,1865,3730,3,Saturday,Tuesday
+172,C070,62,4,44988,0.194490741,44993,0.217210648,Patiala,Holi,4,5,March,March,1356,5424,5,Friday,Wednesday
+177,C085,62,4,44990,0.075833333,44992,0.618541667,Satara,Holi,1,14,March,March,1356,5424,2,Sunday,Tuesday
+207,C078,6,2,44990,0.05087963,44992,0.511064815,Amravati,Holi,1,12,March,March,1112,2224,2,Sunday,Tuesday
+214,C099,13,3,44986,0.326331019,44992,0.352372685,Durgapur,Holi,7,8,March,March,1141,3423,6,Wednesday,Tuesday
+219,C027,16,5,44990,0.025081019,44996,0.441724537,Bhimavaram,Holi,0,10,March,March,1721,8605,6,Sunday,Saturday
+220,C001,26,3,44991,0.518680556,45000,0.612407407,Jalandhar,Holi,12,14,March,March,289,867,9,Monday,Wednesday
+238,C083,26,4,44990,0.331053241,44996,0.846030093,Jammu,Holi,7,20,March,March,289,1156,6,Sunday,Saturday
+245,C020,50,3,44990,0.267662037,44996,0.396180556,Noida,Holi,6,9,March,March,422,1266,6,Sunday,Saturday
+259,C001,62,1,44990,0.640208333,44995,0.002789352,Sirsa,Holi,15,0,March,March,1356,1356,5,Sunday,Friday
+260,C100,69,5,44991,0.545960648,45001,0.932291667,Satara,Holi,13,22,March,March,998,4990,10,Monday,Thursday
+267,C055,35,3,44989,0.568715278,44997,0.161111111,Chandrapur,Holi,13,3,March,March,1865,5595,8,Saturday,Sunday
+275,C028,29,1,44987,0.176238426,44990,0.053923611,Ranchi,Holi,4,1,March,March,1252,1252,3,Thursday,Sunday
+286,C098,50,3,44991,0.837268519,44997,0.112118056,Mango,Holi,20,2,March,March,422,1266,6,Monday,Sunday
+287,C011,7,5,44988,0.204212963,44991,0.652743056,Muzaffarnagar,Holi,4,15,March,March,409,2045,3,Friday,Monday
+290,C079,69,3,44991,0.435625,44995,0.606643519,Alwar,Holi,10,14,March,March,998,2994,4,Monday,Friday
+294,C047,26,5,44986,0.877986111,44988,0.822847222,Nagpur,Holi,21,19,March,March,289,1445,2,Wednesday,Friday
+305,C003,26,1,44987,0.007453704,44995,0.584085648,Lucknow,Holi,0,14,March,March,289,289,8,Thursday,Friday
+315,C063,26,5,44991,0.598275463,44994,0.805798611,Ambattur,Holi,14,19,March,March,289,1445,3,Monday,Thursday
+317,C014,29,3,44992,0.785729167,45000,0.675578704,Ahmednagar,Holi,18,16,March,March,1252,3756,8,Tuesday,Wednesday
+318,C038,26,5,44992,0.510983796,44996,0.666516204,Hosur,Holi,12,15,March,March,289,1445,4,Tuesday,Saturday
+320,C007,13,1,44986,0.326331019,44993,0.359965278,Bijapur,Holi,7,8,March,March,1141,1141,7,Wednesday,Wednesday
+343,C006,66,3,44991,0.59212963,44994,0.39380787,Parbhani,Holi,14,9,March,March,610,1830,3,Monday,Thursday
+346,C090,50,1,44989,0.975196759,44997,0.69900463,Pondicherry,Holi,23,16,March,March,422,422,8,Saturday,Sunday
+357,C063,62,4,44988,0.834236111,44998,0.871921296,Kavali,Holi,20,20,March,March,1356,5424,10,Friday,Monday
+361,C049,47,4,44988,0.256898148,44996,0.356365741,Rajkot,Holi,6,8,March,March,1638,6552,8,Friday,Saturday
+367,C010,47,5,44988,0.030659722,44997,0.628506944,South Dumdum,Holi,0,15,March,March,1638,8190,9,Friday,Sunday
+368,C042,6,3,44989,0.960671296,44991,0.119560185,Nashik,Holi,23,2,March,March,1112,3336,2,Saturday,Monday
+378,C040,6,2,44986,0.479398148,44993,0.810324074,Hindupur,Holi,11,19,March,March,1112,2224,7,Wednesday,Wednesday
+379,C078,66,1,44988,0.980335648,44991,0.447256944,Bhavnagar,Holi,23,10,March,March,610,610,3,Friday,Monday
+385,C002,50,4,44988,0.052789352,44993,0.448819444,Alwar,Holi,1,10,March,March,422,1688,5,Friday,Wednesday
+389,C061,29,2,44991,0.143263889,45001,0.759490741,Mahbubnagar,Holi,3,18,March,March,1252,2504,10,Monday,Thursday
+390,C043,26,4,44988,0.653425926,44995,0.959803241,Akola,Holi,15,23,March,March,289,1156,7,Friday,Friday
+395,C067,26,2,44988,0.968680556,44991,0.772650463,Hosur,Holi,23,18,March,March,289,578,3,Friday,Monday
+402,C037,29,1,44990,0.696168981,44993,0.564467593,Thrissur,Holi,16,13,March,March,1252,1252,3,Sunday,Wednesday
+417,C004,62,4,44992,0.944907407,44996,0.247604167,Khammam,Holi,22,5,March,March,1356,5424,4,Tuesday,Saturday
+419,C065,47,3,44990,0.721423611,44996,0.578888889,Agartala,Holi,17,13,March,March,1638,4914,6,Sunday,Saturday
+424,C072,7,4,44986,0.128425926,44994,0.435451389,Kishanganj,Holi,3,10,March,March,409,1636,8,Wednesday,Thursday
+440,C018,13,4,44992,0.398275463,44994,0.056585648,Gudivada,Holi,9,1,March,March,1141,4564,2,Tuesday,Thursday
+448,C086,16,1,44987,0.113125,44988,0.571111111,Bulandshahr,Holi,2,13,March,March,1721,1721,1,Thursday,Friday
+460,C007,29,2,44989,0.332326389,44991,0.005162037,Kolhapur,Holi,7,0,March,March,1252,2504,2,Saturday,Monday
+480,C059,62,4,44991,0.187164352,45001,0.930243056,Sagar,Holi,4,22,March,March,1356,5424,10,Monday,Thursday
+507,C028,13,4,44992,0.019571759,44998,0.841388889,Malda,Holi,0,20,March,March,1141,4564,6,Tuesday,Monday
+509,C003,13,5,44990,0.533969907,44994,0.324490741,Uluberia,Holi,12,7,March,March,1141,5705,4,Sunday,Thursday
+525,C033,16,2,44987,0.837592593,44996,0.932349537,Bhagalpur,Holi,20,22,March,March,1721,3442,9,Thursday,Saturday
+526,C008,13,5,44987,0.254398148,44993,0.066030093,Bangalore,Holi,6,1,March,March,1141,5705,6,Thursday,Wednesday
+544,C030,29,2,44986,0.105486111,44996,0.398518519,Belgaum,Holi,2,9,March,March,1252,2504,10,Wednesday,Saturday
+557,C039,47,3,44986,0.125486111,44993,0.090729167,Kavali,Holi,3,2,March,March,1638,4914,7,Wednesday,Wednesday
+565,C011,50,3,44991,0.727962963,44999,0.550543981,Mehsana,Holi,17,13,March,March,422,1266,8,Monday,Tuesday
+567,C090,66,1,44991,0.258321759,45000,0.78962963,Unnao,Holi,6,18,March,March,610,610,9,Monday,Wednesday
+574,C064,29,3,44987,0.997986111,44991,0.906388889,Kozhikode,Holi,23,21,March,March,1252,3756,4,Thursday,Monday
+579,C092,29,2,44992,0.901851852,44999,0.447986111,Maheshtala,Holi,21,10,March,March,1252,2504,7,Tuesday,Tuesday
+592,C007,47,5,44992,0.143784722,44996,0.903738426,Phusro,Holi,3,21,March,March,1638,8190,4,Tuesday,Saturday
+596,C046,50,1,44990,0.623391204,44999,0.74912037,Tiruppur,Holi,14,17,March,March,422,422,9,Sunday,Tuesday
+597,C074,16,1,44986,0.045752315,44991,0.11787037,Pimpri-Chinchwad,Holi,1,2,March,March,1721,1721,5,Wednesday,Monday
+600,C095,47,4,44992,0.892118056,44994,0.637025463,Shimla,Holi,21,15,March,March,1638,6552,2,Tuesday,Thursday
+607,C028,50,3,44988,0.076678241,44990,0.411759259,Bidhannagar,Holi,1,9,March,March,422,1266,2,Friday,Sunday
+612,C075,26,1,44987,0.432233796,44993,0.527662037,Shivpuri,Holi,10,12,March,March,289,289,6,Thursday,Wednesday
+614,C089,26,1,44988,0.650150463,44992,0.785891204,Aizawl,Holi,15,18,March,March,289,289,4,Friday,Tuesday
+619,C091,35,1,44991,0.304699074,45001,0.1371875,Patiala,Holi,7,3,March,March,1865,1865,10,Monday,Thursday
+657,C055,13,3,44988,0.40130787,44993,0.617071759,Kochi,Holi,9,14,March,March,1141,3423,5,Friday,Wednesday
+665,C060,62,5,44990,0.599560185,45000,0.662534722,Akola,Holi,14,15,March,March,1356,6780,10,Sunday,Wednesday
+666,C032,26,5,44987,0.403541667,44993,0.811284722,Jammu,Holi,9,19,March,March,289,1445,6,Thursday,Wednesday
+686,C026,50,1,44986,0.68724537,44996,0.901377315,Bardhaman,Holi,16,21,March,March,422,422,10,Wednesday,Saturday
+689,C046,66,4,44987,0.244930556,44992,0.458645833,Silchar,Holi,5,11,March,March,610,2440,5,Thursday,Tuesday
+696,C046,13,3,44992,0.112743056,44999,0.631076389,Rajpur Sonarpur,Holi,2,15,March,March,1141,3423,7,Tuesday,Tuesday
+697,C026,66,1,44988,0.597511574,44992,0.634953704,Ichalkaranji,Holi,14,15,March,March,610,610,4,Friday,Tuesday
+700,C006,6,1,44989,0.762465278,44994,0.571608796,Gwalior,Holi,18,13,March,March,1112,1112,5,Saturday,Thursday
+705,C004,7,1,44990,0.762511574,44999,0.748020833,Pimpri-Chinchwad,Holi,18,17,March,March,409,409,9,Sunday,Tuesday
+708,C002,62,3,44988,0.4578125,44997,0.212210648,Ozhukarai,Holi,10,5,March,March,1356,4068,9,Friday,Sunday
+722,C044,13,5,44987,0.729456019,44993,0.338171296,Mathura,Holi,17,8,March,March,1141,5705,6,Thursday,Wednesday
+725,C035,35,3,44991,0.974513889,44996,0.835960648,Kishanganj,Holi,23,20,March,March,1865,5595,5,Monday,Saturday
+738,C098,16,5,44988,0.683078704,44994,0.067037037,Maheshtala,Holi,16,1,March,March,1721,8605,6,Friday,Thursday
+746,C051,35,2,44987,0.224641204,44991,0.267141204,Parbhani,Holi,5,6,March,March,1865,3730,4,Thursday,Monday
+747,C009,6,4,44991,0.155138889,44996,0.693460648,Dhanbad,Holi,3,16,March,March,1112,4448,5,Monday,Saturday
+748,C079,26,1,44991,0.467962963,44992,0.851851852,Tenali,Holi,11,20,March,March,289,289,1,Monday,Tuesday
+763,C070,29,4,44987,0.640381944,44989,0.187581019,Nellore,Holi,15,4,March,March,1252,5008,2,Thursday,Saturday
+767,C077,13,2,44988,0.09806713,44989,0.010335648,Rohtak,Holi,2,0,March,March,1141,2282,1,Friday,Saturday
+772,C085,35,5,44986,0.210486111,44989,0.347280093,Machilipatnam,Holi,5,8,March,March,1865,9325,3,Wednesday,Saturday
+786,C003,47,1,44990,0.949363426,44992,0.303391204,Kirari Suleman Nagar,Holi,22,7,March,March,1638,1638,2,Sunday,Tuesday
+794,C079,13,4,44989,0.716643519,44994,0.618819444,Shimoga,Holi,17,14,March,March,1141,4564,5,Saturday,Thursday
+795,C070,7,1,44988,0.749027778,44992,0.92900463,Ujjain,Holi,17,22,March,March,409,409,4,Friday,Tuesday
+797,C047,13,2,44988,0.87349537,44995,0.186840278,Tiruvottiyur,Holi,20,4,March,March,1141,2282,7,Friday,Friday
+801,C058,35,1,44992,0.802638889,45000,0.274444444,Dindigul,Holi,19,6,March,March,1865,1865,8,Tuesday,Wednesday
+803,C040,26,1,44988,0.502638889,44995,0.118113426,Sambalpur,Holi,12,2,March,March,289,289,7,Friday,Friday
+809,C062,35,1,44992,0.82693287,45002,0.077476852,Ludhiana,Holi,19,1,March,March,1865,1865,10,Tuesday,Friday
+814,C094,47,5,44990,0.08287037,44999,0.195324074,Kumbakonam,Holi,1,4,March,March,1638,8190,9,Sunday,Tuesday
+826,C077,16,5,44987,0.834803241,44993,0.261319444,Udaipur,Holi,20,6,March,March,1721,8605,6,Thursday,Wednesday
+833,C002,26,3,44990,0.028333333,44998,0.069641204,Shahjahanpur,Holi,0,1,March,March,289,867,8,Sunday,Monday
+841,C041,26,5,44992,0.261111111,44997,0.969895833,Bhalswa Jahangir Pur,Holi,6,23,March,March,289,1445,5,Tuesday,Sunday
+848,C005,6,1,44991,0.7034375,44995,0.935277778,Shimla,Holi,16,22,March,March,1112,1112,4,Monday,Friday
+851,C030,13,3,44991,0.480520833,44995,0.762430556,Singrauli,Holi,11,18,March,March,1141,3423,4,Monday,Friday
+862,C049,6,4,44992,0.243912037,45000,0.349849537,Shimoga,Holi,5,8,March,March,1112,4448,8,Tuesday,Wednesday
+872,C094,13,2,44990,0.852743056,44995,0.064155093,Bokaro,Holi,20,1,March,March,1141,2282,5,Sunday,Friday
+875,C011,13,1,44990,0.890636574,44999,0.831782407,Purnia,Holi,21,19,March,March,1141,1141,9,Sunday,Tuesday
+888,C014,69,3,44991,0.48244213,44996,0.634826389,Gandhinagar,Holi,11,15,March,March,998,2994,5,Monday,Saturday
+915,C014,35,1,44991,0.883796296,44999,0.230983796,Uluberia,Holi,21,5,March,March,1865,1865,8,Monday,Tuesday
+948,C061,26,3,44989,0.765173611,44992,0.549606481,Dehradun,Holi,18,13,March,March,289,867,3,Saturday,Tuesday
+958,C009,16,3,44992,0.585381944,44999,0.919918981,Bihar Sharif,Holi,14,22,March,March,1721,5163,7,Tuesday,Tuesday
+963,C025,29,1,44988,0.364108796,44991,0.442199074,Phagwara,Holi,8,10,March,March,1252,1252,3,Friday,Monday
+965,C080,62,1,44987,0.135532407,44991,0.722476852,Amaravati,Holi,3,17,March,March,1356,1356,4,Thursday,Monday
+966,C061,13,2,44986,0.097986111,44995,0.43255787,Nellore,Holi,2,10,March,March,1141,2282,9,Wednesday,Friday
+971,C027,47,1,44987,0.168206019,44995,0.803888889,Sultan Pur Majra,Holi,4,19,March,March,1638,1638,8,Thursday,Friday
+975,C077,62,2,44989,0.018425926,44997,0.335902778,Sultan Pur Majra,Holi,0,8,March,March,1356,2712,8,Saturday,Sunday
+977,C005,47,2,44990,0.523275463,44992,0.985925926,Rajpur Sonarpur,Holi,12,23,March,March,1638,3276,2,Sunday,Tuesday
+51,C036,10,1,45000,0.391539352,45004,0.699074074,Agartala,Birthday,9,16,March,March,259,259,4,Wednesday,Sunday
+96,C099,25,3,44999,0.625243056,45008,0.372291667,Latur,Anniversary,15,8,March,March,1202,3606,9,Tuesday,Thursday
+125,C020,31,2,45004,0.383460648,45010,0.608460648,Kolkata,All Occasions,9,14,March,March,1804,3608,6,Sunday,Saturday
+128,C065,12,3,44991,0.701712963,44998,0.632858796,Kochi,Anniversary,16,15,March,March,672,2016,7,Monday,Monday
+138,C022,57,4,44996,0.398564815,45003,0.251851852,Siliguri,Birthday,9,6,March,March,1582,6328,7,Saturday,Saturday
+147,C080,8,4,45002,0.811284722,45008,0.577210648,Jodhpur,Anniversary,19,13,March,March,252,1008,6,Friday,Thursday
+170,C040,32,2,45006,0.498761574,45012,0.218136574,Kamarhati,Birthday,11,5,March,March,1792,3584,6,Tuesday,Monday
+176,C039,17,2,44995,0.149143519,45001,0.725590278,Moradabad,Anniversary,3,17,March,March,1899,3798,6,Friday,Thursday
+197,C095,45,2,45007,0.776875,45011,0.145902778,Etawah,Birthday,18,3,March,March,722,1444,4,Wednesday,Sunday
+228,C035,36,1,44995,0.77837963,44996,0.4375,Bijapur,Birthday,18,10,March,March,203,203,1,Friday,Saturday
+240,C074,5,5,45010,0.252523148,45015,0.655185185,Darbhanga,All Occasions,6,15,March,March,1444,7220,5,Saturday,Thursday
+244,C041,65,3,45005,0.629178241,45015,0.296296296,Guntakal,All Occasions,15,7,March,March,1895,5685,10,Monday,Thursday
+263,C081,57,4,44997,0.399421296,44998,0.640289352,Chittoor,Birthday,9,15,March,March,1582,6328,1,Sunday,Monday
+304,C088,67,3,44997,0.391990741,45004,0.965011574,Tiruchirappalli,Anniversary,9,23,March,March,1374,4122,7,Sunday,Sunday
+308,C005,57,1,44994,0.329293981,44997,0.507916667,Haldia,Birthday,7,12,March,March,1582,1582,3,Thursday,Sunday
+321,C049,12,5,44993,0.477141204,45002,0.410914352,Rampur,Anniversary,11,9,March,March,672,3360,9,Wednesday,Friday
+362,C041,31,2,44995,0.152789352,45002,0.441238426,Nashik,All Occasions,3,10,March,March,1804,3608,7,Friday,Friday
+394,C028,38,5,45008,0.185150463,45016,0.809699074,Dewas,Birthday,4,19,March,March,562,2810,8,Thursday,Friday
+396,C068,10,5,45000,0.64650463,45001,0.072928241,Tiruvottiyur,Birthday,15,1,March,March,259,1295,1,Wednesday,Thursday
+408,C063,31,2,44990,0.51349537,44996,0.195578704,Haldia,All Occasions,12,4,March,March,1804,3608,6,Sunday,Saturday
+459,C093,12,2,45014,0.308969907,45015,0.315636574,Ranchi,Anniversary,7,7,March,March,672,1344,1,Wednesday,Thursday
+601,C030,1,4,44999,0.109571759,45003,0.150833333,Raurkela Industrial Township,All Occasions,2,3,March,March,1935,7740,4,Tuesday,Saturday
+637,C056,51,3,44997,0.812106481,45005,0.940439815,Darbhanga,All Occasions,19,22,March,March,1084,3252,8,Sunday,Monday
+687,C098,8,5,45000,0.748090278,45004,0.202013889,Raichur,Anniversary,17,4,March,March,252,1260,4,Wednesday,Sunday
+695,C046,23,4,44990,0.692268519,44999,0.709537037,Imphal,Anniversary,16,17,March,March,1098,4392,9,Sunday,Tuesday
+802,C097,45,3,45008,0.525960648,45011,0.263194444,Dibrugarh,Birthday,12,6,March,March,722,2166,3,Thursday,Sunday
+818,C004,8,4,44987,0.327152778,44994,0.380335648,Thrissur,Anniversary,7,9,March,March,252,1008,7,Thursday,Thursday
+849,C013,57,1,44997,0.053333333,44999,0.034756944,Panipat,Birthday,1,0,March,March,1582,1582,2,Sunday,Tuesday
+877,C041,46,5,44994,0.96962963,45003,0.519027778,Hazaribagh,Anniversary,23,12,March,March,758,3790,9,Thursday,Saturday
+884,C091,10,3,45003,0.927592593,45012,0.791608796,Tezpur,Birthday,22,18,March,March,259,777,9,Saturday,Monday
+890,C064,45,4,45008,0.975925926,45012,0.484895833,Kharagpur,Birthday,23,11,March,March,722,2888,4,Thursday,Monday
+902,C025,32,5,45007,0.56244213,45009,0.516678241,Bidar,Birthday,13,12,March,March,1792,8960,2,Wednesday,Friday
+926,C049,40,4,45013,0.959699074,45016,0.994039352,Kulti,Anniversary,23,23,March,March,1923,7692,3,Tuesday,Friday
+929,C085,23,1,45004,0.292268519,45011,0.543425926,Kavali,Anniversary,7,13,March,March,1098,1098,7,Sunday,Sunday
+937,C097,51,2,44996,0.165081019,45000,0.81056713,Rohtak,All Occasions,3,19,March,March,1084,2168,4,Saturday,Wednesday
+1,C037,67,5,44981,0.99181713,44990,0.310532407,Bardhaman,Anniversary,23,7,February,March,1374,6870,9,Friday,Sunday
+31,C029,7,5,44985,0.550949074,44988,0.983206019,Nandyal,Holi,13,23,February,March,409,2045,3,Tuesday,Friday
+10,C099,56,3,44983,0.012106481,44993,0.866469907,Ambala,Anniversary,0,20,February,March,1272,3816,10,Sunday,Wednesday
+13,C024,20,3,44981,0.699490741,44989,0.102511574,Gandhidham,Anniversary,16,2,February,March,697,2091,8,Friday,Saturday
+42,C080,35,1,44983,0.00599537,44992,0.721157407,Faridabad,Holi,0,17,February,March,1865,1865,9,Sunday,Tuesday
+57,C090,35,5,44983,0.333506944,44991,0.51912037,Ahmedabad,Holi,8,12,February,March,1865,9325,8,Sunday,Monday
+81,C053,1,5,44979,0.770381944,44988,0.298287037,Kalyan-Dombivli,All Occasions,18,7,February,March,1935,9675,9,Wednesday,Friday
+91,C061,6,2,44984,0.578425926,44990,0.557928241,Mahbubnagar,Holi,13,13,February,March,1112,2224,6,Monday,Sunday
+108,C012,26,4,44984,0.377384259,44990,0.335474537,Berhampore,Holi,9,8,February,March,289,1156,6,Monday,Sunday
+109,C074,50,5,44984,0.649861111,44986,0.36037037,Gandhidham,Holi,15,8,February,March,422,2110,2,Monday,Wednesday
+118,C035,62,1,44984,0.604849537,44990,0.439490741,Bhavnagar,Holi,14,10,February,March,1356,1356,6,Monday,Sunday
+141,C062,35,4,44985,0.163263889,44995,0.105509259,Allahabad,Holi,3,2,February,March,1865,7460,10,Tuesday,Friday
+143,C087,66,2,44985,0.317569444,44995,0.617986111,Ramagundam,Holi,7,14,February,March,610,1220,10,Tuesday,Friday
+152,C084,51,2,44984,0.450590278,44990,0.69400463,Tiruppur,All Occasions,10,16,February,March,1084,2168,6,Monday,Sunday
+157,C019,35,3,44983,0.530752315,44991,0.483148148,Thiruvananthapuram,Holi,12,11,February,March,1865,5595,8,Sunday,Monday
+179,C078,47,3,44985,0.636134259,44995,0.60494213,Vijayanagaram,Holi,15,14,February,March,1638,4914,10,Tuesday,Friday
+212,C093,7,2,44985,0.301851852,44990,0.834548611,Ozhukarai,Holi,7,20,February,March,409,818,5,Tuesday,Sunday
+222,C099,6,5,44983,0.248206019,44992,0.764467593,Guntur,Holi,5,18,February,March,1112,5560,9,Sunday,Tuesday
+235,C071,56,2,44983,0.601921296,44988,0.976655093,Bhilai,Anniversary,14,23,February,March,1272,2544,5,Sunday,Friday
+246,C017,69,5,44985,0.975381944,44993,0.026956019,Agra,Holi,23,0,February,March,998,4990,8,Tuesday,Wednesday
+251,C051,7,4,44985,0.022083333,44987,0.013703704,Khora,Holi,0,0,February,March,409,1636,2,Tuesday,Thursday
+285,C082,7,5,44983,0.726898148,44986,0.536342593,Tirunelveli,Holi,17,12,February,March,409,2045,3,Sunday,Wednesday
+297,C047,13,3,44985,0.844085648,44990,0.869756944,Phagwara,Holi,20,20,February,March,1141,3423,5,Tuesday,Sunday
+301,C070,6,3,44984,0.266921296,44989,0.702962963,Kota,Holi,6,16,February,March,1112,3336,5,Monday,Saturday
+354,C087,13,5,44983,0.726018519,44991,0.405231481,Narasaraopet,Holi,17,9,February,March,1141,5705,8,Sunday,Monday
+359,C052,47,2,44985,0.509444444,44990,0.855208333,Nagpur,Holi,12,20,February,March,1638,3276,5,Tuesday,Sunday
+414,C034,7,4,44985,0.887627315,44992,0.046886574,Raurkela Industrial Township,Holi,21,1,February,March,409,1636,7,Tuesday,Tuesday
+433,C068,7,5,44983,0.981840278,44987,0.180509259,Amravati,Holi,23,4,February,March,409,2045,4,Sunday,Thursday
+441,C052,26,2,44983,0.474953704,44991,0.693634259,Kurnool,Holi,11,16,February,March,289,578,8,Sunday,Monday
+447,C032,47,4,44984,0.114976852,44989,0.628425926,Bhilwara,Holi,2,15,February,March,1638,6552,5,Monday,Saturday
+470,C031,47,5,44985,0.731990741,44991,0.645474537,Bhavnagar,Holi,17,15,February,March,1638,8190,6,Tuesday,Monday
+494,C082,7,4,44985,0.132893519,44993,0.796388889,Rewa,Holi,3,19,February,March,409,1636,8,Tuesday,Wednesday
+508,C035,69,1,44983,0.728796296,44989,0.299375,Varanasi,Holi,17,7,February,March,998,998,6,Sunday,Saturday
+511,C055,47,2,44984,0.540335648,44989,0.032071759,Dibrugarh,Holi,12,0,February,March,1638,3276,5,Monday,Saturday
+522,C011,50,3,44984,0.878101852,44993,0.065856481,Avadi,Holi,21,1,February,March,422,1266,9,Monday,Wednesday
+550,C023,29,5,44984,0.81125,44990,0.710868056,Bettiah,Holi,19,17,February,March,1252,6260,6,Monday,Sunday
+554,C045,29,4,44985,0.850775463,44988,0.700706019,Sangli-Miraj & Kupwad,Holi,20,16,February,March,1252,5008,3,Tuesday,Friday
+570,C056,69,3,44985,0.475740741,44994,0.03744213,Satna,Holi,11,0,February,March,998,2994,9,Tuesday,Thursday
+571,C046,6,1,44985,0.401678241,44994,0.184733796,Bhatpara,Holi,9,4,February,March,1112,1112,9,Tuesday,Thursday
+625,C089,63,5,44980,0.885902778,44989,0.115347222,Belgaum,All Occasions,21,2,February,March,1348,6740,9,Thursday,Saturday
+630,C071,67,3,44978,0.901238426,44986,0.786898148,Karimnagar,Anniversary,21,18,February,March,1374,4122,8,Tuesday,Wednesday
+643,C063,35,2,44983,0.548888889,44991,0.850115741,Malda,Holi,13,20,February,March,1865,3730,8,Sunday,Monday
+650,C077,32,3,44980,0.079664352,44987,0.131666667,Guwahati,Birthday,1,3,February,March,1792,5376,7,Thursday,Thursday
+675,C052,13,4,44985,0.336643519,44994,0.994583333,Pali,Holi,8,23,February,March,1141,4564,9,Tuesday,Thursday
+682,C054,50,5,44983,0.31337963,44990,0.4809375,Hyderabad,Holi,7,11,February,March,422,2110,7,Sunday,Sunday
+755,C037,6,5,44984,0.689884259,44991,0.095046296,Aurangabad,Holi,16,2,February,March,1112,5560,7,Monday,Monday
+762,C064,50,1,44983,0.424525463,44986,0.16412037,Bangalore,Holi,10,3,February,March,422,422,3,Sunday,Wednesday
+785,C052,47,5,44983,0.737199074,44986,0.54818287,Jodhpur,Holi,17,13,February,March,1638,8190,3,Sunday,Wednesday
+790,C046,26,2,44985,0.252418981,44993,0.18099537,Chennai,Holi,6,4,February,March,289,578,8,Tuesday,Wednesday
+806,C088,29,2,44985,0.542615741,44993,0.277060185,Jhansi,Holi,13,6,February,March,1252,2504,8,Tuesday,Wednesday
+816,C042,35,3,44985,0.822511574,44995,0.57056713,Ujjain,Holi,19,13,February,March,1865,5595,10,Tuesday,Friday
+821,C050,32,4,44984,0.844108796,44992,0.948611111,Bareilly,Birthday,20,22,February,March,1792,7168,8,Monday,Tuesday
+854,C016,62,3,44984,0.083715278,44987,0.119085648,Bhind,Holi,2,2,February,March,1356,4068,3,Monday,Thursday
+919,C038,35,5,44985,0.352696759,44989,0.00380787,Delhi,Holi,8,0,February,March,1865,9325,4,Tuesday,Saturday
+949,C020,6,4,44984,0.871539352,44991,0.399502315,Begusarai,Holi,20,9,February,March,1112,4448,7,Monday,Monday
+973,C031,66,3,44983,0.441608796,44992,0.157222222,Barasat,Holi,10,3,February,March,610,1830,9,Sunday,Tuesday
+978,C019,29,4,44985,0.374479167,44994,0.271608796,Barasat,Holi,8,6,February,March,1252,5008,9,Tuesday,Thursday
+982,C019,47,4,44985,0.789155093,44989,0.132905093,Srinagar,Holi,18,3,February,March,1638,6552,4,Tuesday,Saturday
+436,C058,8,1,44953,0.255555556,44960,0.34431713,Salem,Anniversary,6,8,January,February,252,252,7,Friday,Friday
+471,C092,23,2,44957,0.506261574,44967,0.243125,Tirunelveli,Anniversary,12,5,January,February,1098,2196,10,Tuesday,Friday
+604,C069,39,3,44957,0.829814815,44960,0.892106481,Tadipatri,All Occasions,19,21,January,February,387,1161,3,Tuesday,Friday
+681,C098,23,5,44955,0.422291667,44962,0.501018519,Nashik,Anniversary,10,12,January,February,1098,5490,7,Sunday,Sunday
+739,C094,24,5,44956,0.405439815,44960,0.439965278,Berhampur,Birthday,9,10,January,February,535,2675,4,Monday,Friday
+55,C040,5,1,44965,0.334108796,44970,0.32150463,Kottayam,All Occasions,8,7,February,February,1444,1444,5,Wednesday,Monday
+47,C013,7,5,44983,0.544768519,44985,0.250231481,Jaipur,Holi,13,6,February,February,409,2045,2,Sunday,Tuesday
+16,C013,20,3,44973,0.629293981,44977,0.926631944,Khammam,Anniversary,15,22,February,February,697,2091,4,Thursday,Monday
+21,C090,32,1,44966,0.472824074,44969,0.483634259,Bathinda,Birthday,11,11,February,February,1792,1792,3,Thursday,Sunday
+66,C017,35,5,44983,0.875509259,44984,0.268032407,Munger,Holi,21,6,February,February,1865,9325,1,Sunday,Monday
+103,C097,18,3,44958,0.517349537,44965,0.952534722,Ichalkaranji,Birthday,12,22,February,February,781,2343,7,Wednesday,Wednesday
+105,C063,36,2,44968,0.123333333,44978,0.065393519,Guna,Birthday,2,1,February,February,203,406,10,Saturday,Tuesday
+114,C009,40,4,44960,0.668923611,44964,0.099166667,Kirari Suleman Nagar,Anniversary,16,2,February,February,1923,7692,4,Friday,Tuesday
+129,C051,67,2,44974,0.223263889,44977,0.345509259,Ramgarh,Anniversary,5,8,February,February,1374,2748,3,Friday,Monday
+156,C030,61,2,44966,0.347800926,44969,0.450856481,Ozhukarai,Anniversary,8,10,February,February,810,1620,3,Thursday,Sunday
+163,C083,54,4,44974,0.82650463,44982,0.430740741,Ujjain,Anniversary,19,10,February,February,1236,4944,8,Friday,Saturday
+213,C022,42,5,44971,0.351597222,44981,0.373738426,Dehradun,All Occasions,8,8,February,February,1744,8720,10,Tuesday,Friday
+252,C040,69,2,44983,0.23712963,44985,0.341157407,Nandyal,Holi,5,8,February,February,998,1996,2,Sunday,Tuesday
+323,C013,23,2,44966,0.759074074,44967,0.432349537,Khora,Anniversary,18,10,February,February,1098,2196,1,Thursday,Friday
+324,C073,14,2,44959,0.782962963,44968,0.649236111,North Dumdum,Birthday,18,15,February,February,1915,3830,9,Thursday,Saturday
+333,C100,22,5,44966,0.263368056,44967,0.157280093,South Dumdum,All Occasions,6,3,February,February,1639,8195,1,Thursday,Friday
+375,C091,46,1,44968,0.17806713,44977,0.817800926,Mysore,Anniversary,4,19,February,February,758,758,9,Saturday,Monday
+407,C074,69,3,44983,0.369571759,44985,0.173425926,Jamalpur,Holi,8,4,February,February,998,2994,2,Sunday,Tuesday
+409,C049,50,4,44983,0.738877315,44985,0.822881944,Khammam,Holi,17,19,February,February,422,1688,2,Sunday,Tuesday
+420,C039,6,3,44984,0.358564815,44985,0.005196759,Kota,Holi,8,0,February,February,1112,3336,1,Monday,Tuesday
+474,C051,1,4,44964,0.272210648,44971,0.083414352,Dibrugarh,All Occasions,6,2,February,February,1935,7740,7,Tuesday,Tuesday
+543,C023,51,4,44969,0.910532407,44974,0.495243056,Saharanpur,All Occasions,21,11,February,February,1084,4336,5,Sunday,Friday
+546,C064,25,3,44959,0.92005787,44968,0.416747685,Motihari,Anniversary,22,10,February,February,1202,3606,9,Thursday,Saturday
+548,C012,25,2,44978,0.522800926,44979,0.824814815,Gorakhpur,Anniversary,12,19,February,February,1202,2404,1,Tuesday,Wednesday
+617,C083,22,1,44976,0.120625,44985,0.709421296,Uluberia,All Occasions,2,17,February,February,1639,1639,9,Sunday,Tuesday
+627,C024,51,4,44962,0.187789352,44965,0.984861111,Sirsa,All Occasions,4,23,February,February,1084,4336,3,Sunday,Wednesday
+645,C033,50,3,44984,0.0740625,44985,0.088321759,Danapur,Holi,1,2,February,February,422,1266,1,Monday,Tuesday
+662,C068,20,3,44966,0.770740741,44975,0.352696759,Hazaribagh,Anniversary,18,8,February,February,697,2091,9,Thursday,Saturday
+676,C038,46,4,44975,0.529444444,44977,0.869814815,Kanpur,Anniversary,12,20,February,February,758,3032,2,Saturday,Monday
+707,C036,70,4,44960,0.262106481,44969,0.044664352,Tirunelveli,Birthday,6,1,February,February,866,3464,9,Friday,Sunday
+723,C045,14,3,44961,0.750659722,44962,0.039907407,Mau,Birthday,18,0,February,February,1915,5745,1,Saturday,Sunday
+729,C030,17,1,44980,0.76380787,44982,0.493969907,Kollam,Anniversary,18,11,February,February,1899,1899,2,Thursday,Saturday
+735,C037,56,1,44959,0.30724537,44961,0.248587963,Nandyal,Anniversary,7,5,February,February,1272,1272,2,Thursday,Saturday
+775,C077,45,1,44976,0.158449074,44981,0.980405093,Anand,Birthday,3,23,February,February,722,722,5,Sunday,Friday
+777,C016,70,3,44981,0.648576389,44984,0.478923611,Bhusawal,Birthday,15,11,February,February,866,2598,3,Friday,Monday
+832,C026,65,4,44958,0.789166667,44967,0.096863426,Etawah,All Occasions,18,2,February,February,1895,7580,9,Wednesday,Friday
+857,C053,63,1,44966,0.390486111,44975,0.583842593,Bareilly,All Occasions,9,14,February,February,1348,1348,9,Thursday,Saturday
+861,C030,32,1,44966,0.346886574,44971,0.109421296,Bidar,Birthday,8,2,February,February,1792,1792,5,Thursday,Tuesday
+923,C034,7,4,44984,0.609398148,44985,0.917789352,Ahmedabad,Holi,14,22,February,February,409,1636,1,Monday,Tuesday
+943,C026,22,4,44976,0.6021875,44979,0.795821759,Narasaraopet,All Occasions,14,19,February,February,1639,6556,3,Sunday,Wednesday
+961,C016,1,5,44958,0.284351852,44967,0.871273148,Gulbarga,All Occasions,6,20,February,February,1935,9675,9,Wednesday,Friday
+991,C054,36,5,44966,0.625833333,44972,0.720092593,Barasat,Birthday,15,17,February,February,203,1015,6,Thursday,Wednesday
+5,C078,58,2,44968,0.822777778,44975,0.464490741,Rajkot,Valentine's Day,19,11,February,February,1492,2984,7,Saturday,Saturday
+56,C095,58,5,44965,0.508194444,44970,0.786099537,Danapur,Valentine's Day,12,18,February,February,1492,7460,5,Wednesday,Monday
+37,C096,19,5,44967,0.459074074,44972,0.888611111,Katni,Valentine's Day,11,21,February,February,1234,6170,5,Friday,Wednesday
+20,C011,52,1,44968,0.608993056,44971,0.065462963,Madurai,Valentine's Day,14,1,February,February,236,236,3,Saturday,Tuesday
+43,C046,49,3,44969,0.93837963,44973,0.116516204,Sambalpur,Valentine's Day,22,2,February,February,903,2709,4,Sunday,Thursday
+78,C062,11,2,44961,0.541770833,44965,0.855034722,Pallavaram,Valentine's Day,13,20,February,February,1096,2192,4,Saturday,Wednesday
+87,C055,2,5,44961,0.553715278,44968,0.962916667,Malda,Valentine's Day,13,23,February,February,441,2205,7,Saturday,Saturday
+89,C060,3,5,44969,0.956157407,44970,0.612280093,Aurangabad,Valentine's Day,22,14,February,February,1534,7670,1,Sunday,Monday
+121,C048,33,3,44962,0.096469907,44966,0.312164352,Guntur,Valentine's Day,2,7,February,February,314,942,4,Sunday,Thursday
+126,C040,19,5,44961,0.103055556,44970,0.553217593,Dharmavaram,Valentine's Day,2,13,February,February,1234,6170,9,Saturday,Monday
+131,C078,3,5,44961,0.85474537,44968,0.353506944,Satara,Valentine's Day,20,8,February,February,1534,7670,7,Saturday,Saturday
+132,C045,49,4,44961,0.974780093,44970,0.830416667,Thoothukudi,Valentine's Day,23,19,February,February,903,3612,9,Saturday,Monday
+146,C030,52,5,44970,0.766608796,44973,0.171956019,Vijayawada,Valentine's Day,18,4,February,February,236,1180,3,Monday,Thursday
+161,C054,58,3,44970,0.130625,44971,0.966678241,Karaikudi,Valentine's Day,3,23,February,February,1492,4476,1,Monday,Tuesday
+169,C051,3,2,44963,0.436770833,44973,0.05994213,Shivpuri,Valentine's Day,10,1,February,February,1534,3068,10,Monday,Thursday
+173,C072,58,2,44964,0.969178241,44970,0.077696759,Deoghar,Valentine's Day,23,1,February,February,1492,2984,6,Tuesday,Monday
+182,C070,2,1,44965,0.973263889,44972,0.255243056,Chennai,Valentine's Day,23,6,February,February,441,441,7,Wednesday,Wednesday
+184,C027,52,3,44968,0.899224537,44977,0.208668981,Dharmavaram,Valentine's Day,21,5,February,February,236,708,9,Saturday,Monday
+187,C008,49,5,44968,0.882418981,44973,0.398715278,Anantapur,Valentine's Day,21,9,February,February,903,4515,5,Saturday,Thursday
+194,C030,58,4,44965,0.487141204,44966,0.204513889,Pondicherry,Valentine's Day,11,4,February,February,1492,5968,1,Wednesday,Thursday
+206,C099,68,3,44968,0.925185185,44970,0.529178241,Ulhasnagar,Valentine's Day,22,12,February,February,597,1791,2,Saturday,Monday
+223,C051,49,2,44962,0.364178241,44970,0.429155093,Bhalswa Jahangir Pur,Valentine's Day,8,10,February,February,903,1806,8,Sunday,Monday
+225,C093,52,5,44962,0.508634259,44963,0.750763889,Arrah,Valentine's Day,12,18,February,February,236,1180,1,Sunday,Monday
+229,C079,49,3,44968,0.871967593,44977,0.397800926,Junagadh,Valentine's Day,20,9,February,February,903,2709,9,Saturday,Monday
+243,C043,3,1,44962,0.868483796,44967,0.521458333,Siwan,Valentine's Day,20,12,February,February,1534,1534,5,Sunday,Friday
+248,C044,19,5,44965,0.363668981,44967,0.177094907,Alwar,Valentine's Day,8,4,February,February,1234,6170,2,Wednesday,Friday
+253,C010,68,2,44969,0.600532407,44971,0.235729167,Bangalore,Valentine's Day,14,5,February,February,597,1194,2,Sunday,Tuesday
+262,C038,49,3,44964,0.336990741,44968,0.046493056,Tirunelveli,Valentine's Day,8,1,February,February,903,2709,4,Tuesday,Saturday
+264,C010,52,3,44966,0.232858796,44975,0.655393519,Asansol,Valentine's Day,5,15,February,February,236,708,9,Thursday,Saturday
+265,C060,58,1,44967,0.887013889,44975,0.269826389,Gudivada,Valentine's Day,21,6,February,February,1492,1492,8,Friday,Saturday
+280,C003,19,3,44964,0.73943287,44969,0.688252315,Mangalore,Valentine's Day,17,16,February,February,1234,3702,5,Tuesday,Sunday
+291,C072,49,2,44967,0.008796296,44968,0.953368056,Nadiad,Valentine's Day,0,22,February,February,903,1806,1,Friday,Saturday
+298,C057,3,1,44968,0.962835648,44969,0.095636574,Bahraich,Valentine's Day,23,2,February,February,1534,1534,1,Saturday,Sunday
+306,C085,49,4,44961,0.483229167,44969,0.276388889,Bellary,Valentine's Day,11,6,February,February,903,3612,8,Saturday,Sunday
+307,C042,3,1,44961,0.901319444,44965,0.477893519,Durgapur,Valentine's Day,21,11,February,February,1534,1534,4,Saturday,Wednesday
+316,C048,2,5,44968,0.899363426,44972,0.306828704,Muzaffarnagar,Valentine's Day,21,7,February,February,441,2205,4,Saturday,Wednesday
+350,C020,19,3,44970,0.5159375,44979,0.684837963,Kolkata,Valentine's Day,12,16,February,February,1234,3702,9,Monday,Wednesday
+366,C033,3,3,44965,0.969293981,44973,0.452523148,Kolkata,Valentine's Day,23,10,February,February,1534,4602,8,Wednesday,Thursday
+399,C008,68,1,44965,0.265127315,44972,0.297384259,Bareilly,Valentine's Day,6,7,February,February,597,597,7,Wednesday,Wednesday
+405,C033,49,1,44967,0.961967593,44975,0.616412037,Guwahati,Valentine's Day,23,14,February,February,903,903,8,Friday,Saturday
+416,C006,58,5,44969,0.695162037,44974,0.400706019,Saharanpur,Valentine's Day,16,9,February,February,1492,7460,5,Sunday,Friday
+423,C067,19,1,44968,0.699282407,44974,0.007002315,Alappuzha,Valentine's Day,16,0,February,February,1234,1234,6,Saturday,Friday
+426,C073,2,2,44970,0.958263889,44974,0.577083333,Kharagpur,Valentine's Day,22,13,February,February,441,882,4,Monday,Friday
+442,C023,3,3,44965,0.752314815,44972,0.337256944,Khandwa,Valentine's Day,18,8,February,February,1534,4602,7,Wednesday,Wednesday
+443,C046,49,3,44961,0.932164352,44970,0.094444444,Secunderabad,Valentine's Day,22,2,February,February,903,2709,9,Saturday,Monday
+446,C079,33,5,44969,0.12087963,44972,0.460740741,Bokaro,Valentine's Day,2,11,February,February,314,1570,3,Sunday,Wednesday
+449,C045,49,4,44970,0.137800926,44973,0.423391204,Ichalkaranji,Valentine's Day,3,10,February,February,903,3612,3,Monday,Thursday
+451,C079,33,5,44964,0.011712963,44970,0.882604167,Ujjain,Valentine's Day,0,21,February,February,314,1570,6,Tuesday,Monday
+454,C088,3,2,44964,0.976956019,44966,0.056898148,Suryapet,Valentine's Day,23,1,February,February,1534,3068,2,Tuesday,Thursday
+456,C071,33,2,44969,0.952534722,44972,0.926458333,Nangloi Jat,Valentine's Day,22,22,February,February,314,628,3,Sunday,Wednesday
+477,C099,33,4,44969,0.7209375,44971,0.133240741,Gangtok,Valentine's Day,17,3,February,February,314,1256,2,Sunday,Tuesday
+478,C003,11,5,44965,0.049548611,44966,0.40994213,Ambarnath,Valentine's Day,1,9,February,February,1096,5480,1,Wednesday,Thursday
+479,C071,11,1,44964,0.741909722,44968,0.450150463,Ghaziabad,Valentine's Day,17,10,February,February,1096,1096,4,Tuesday,Saturday
+490,C075,2,1,44969,0.519479167,44971,0.518969907,Eluru,Valentine's Day,12,12,February,February,441,441,2,Sunday,Tuesday
+492,C047,33,2,44961,0.579456019,44970,0.503159722,Salem,Valentine's Day,13,12,February,February,314,628,9,Saturday,Monday
+493,C035,11,1,44962,0.924583333,44963,0.654988426,Gopalpur,Valentine's Day,22,15,February,February,1096,1096,1,Sunday,Monday
+496,C021,11,4,44966,0.605520833,44973,0.545613426,Sambhal,Valentine's Day,14,13,February,February,1096,4384,7,Thursday,Thursday
+498,C100,19,4,44970,0.89912037,44977,0.885,Bhusawal,Valentine's Day,21,21,February,February,1234,4936,7,Monday,Monday
+519,C014,52,4,44964,0.965717593,44972,0.278009259,Hindupur,Valentine's Day,23,6,February,February,236,944,8,Tuesday,Wednesday
+521,C062,33,5,44961,0.875196759,44965,0.103217593,Noida,Valentine's Day,21,2,February,February,314,1570,4,Saturday,Wednesday
+527,C036,33,3,44968,0.53587963,44976,0.665358796,Bardhaman,Valentine's Day,12,15,February,February,314,942,8,Saturday,Sunday
+561,C099,49,5,44969,0.517071759,44978,0.724699074,Ghaziabad,Valentine's Day,12,17,February,February,903,4515,9,Sunday,Tuesday
+563,C077,58,5,44968,0.488402778,44976,0.211446759,Jorhat,Valentine's Day,11,5,February,February,1492,7460,8,Saturday,Sunday
+573,C040,3,5,44965,0.119513889,44971,0.122986111,Thane,Valentine's Day,2,2,February,February,1534,7670,6,Wednesday,Tuesday
+575,C076,49,2,44963,0.558703704,44966,0.62162037,Kota,Valentine's Day,13,14,February,February,903,1806,3,Monday,Thursday
+582,C019,3,4,44961,0.77119213,44962,0.803252315,Latur,Valentine's Day,18,19,February,February,1534,6136,1,Saturday,Sunday
+588,C056,49,5,44961,0.275694444,44962,0.890243056,Kishanganj,Valentine's Day,6,21,February,February,903,4515,1,Saturday,Sunday
+593,C016,58,3,44962,0.72962963,44969,0.398645833,Bhilai,Valentine's Day,17,9,February,February,1492,4476,7,Sunday,Sunday
+606,C047,3,5,44965,0.092511574,44974,0.313564815,Sambalpur,Valentine's Day,2,7,February,February,1534,7670,9,Wednesday,Friday
+628,C061,11,5,44967,0.910034722,44970,0.880393519,Ongole,Valentine's Day,21,21,February,February,1096,5480,3,Friday,Monday
+633,C031,52,5,44967,0.614375,44972,0.217199074,Surat,Valentine's Day,14,5,February,February,236,1180,5,Friday,Wednesday
+651,C017,11,4,44970,0.094768519,44976,0.497152778,Panihati,Valentine's Day,2,11,February,February,1096,4384,6,Monday,Sunday
+656,C032,68,2,44962,0.774085648,44963,0.198611111,Dehri,Valentine's Day,18,4,February,February,597,1194,1,Sunday,Monday
+659,C048,19,5,44962,0.739537037,44969,0.942858796,Silchar,Valentine's Day,17,22,February,February,1234,6170,7,Sunday,Sunday
+660,C053,58,3,44968,0.256087963,44978,0.867071759,Amravati,Valentine's Day,6,20,February,February,1492,4476,10,Saturday,Tuesday
+669,C035,68,5,44967,0.299884259,44974,0.414375,Ludhiana,Valentine's Day,7,9,February,February,597,2985,7,Friday,Friday
+673,C008,33,3,44961,0.246400463,44964,0.184467593,Gaya,Valentine's Day,5,4,February,February,314,942,3,Saturday,Tuesday
+674,C065,68,2,44964,0.403761574,44973,0.986400463,Chennai,Valentine's Day,9,23,February,February,597,1194,9,Tuesday,Thursday
+711,C093,68,3,44961,0.719074074,44963,0.618668981,Tiruppur,Valentine's Day,17,14,February,February,597,1791,2,Saturday,Monday
+718,C028,49,1,44966,0.217766204,44970,0.265335648,Jabalpur,Valentine's Day,5,6,February,February,903,903,4,Thursday,Monday
+721,C022,3,5,44964,0.1446875,44974,0.769467593,Vasai-Virar,Valentine's Day,3,18,February,February,1534,7670,10,Tuesday,Friday
+728,C073,52,2,44965,0.573449074,44968,0.671712963,Panchkula,Valentine's Day,13,16,February,February,236,472,3,Wednesday,Saturday
+734,C008,49,3,44968,0.48931713,44971,0.379236111,Morena,Valentine's Day,11,9,February,February,903,2709,3,Saturday,Tuesday
+750,C022,19,3,44965,0.390752315,44971,0.933819444,Chapra,Valentine's Day,9,22,February,February,1234,3702,6,Wednesday,Tuesday
+752,C034,3,5,44967,0.484733796,44969,0.441643519,Bally,Valentine's Day,11,10,February,February,1534,7670,2,Friday,Sunday
+757,C001,2,3,44969,0.433252315,44977,0.194768519,Shivpuri,Valentine's Day,10,4,February,February,441,1323,8,Sunday,Monday
+779,C052,3,1,44963,0.268483796,44965,0.119340278,Durgapur,Valentine's Day,6,2,February,February,1534,1534,2,Monday,Wednesday
+780,C070,33,2,44967,0.479756944,44970,0.186400463,Bikaner,Valentine's Day,11,4,February,February,314,628,3,Friday,Monday
+789,C048,58,4,44965,0.763611111,44972,0.33369213,Bally,Valentine's Day,18,8,February,February,1492,5968,7,Wednesday,Wednesday
+793,C095,58,5,44962,0.734212963,44972,0.06130787,Mirzapur,Valentine's Day,17,1,February,February,1492,7460,10,Sunday,Wednesday
+804,C009,3,3,44962,0.234236111,44964,0.082037037,Deoghar,Valentine's Day,5,1,February,February,1534,4602,2,Sunday,Tuesday
+838,C003,19,3,44966,0.429178241,44974,0.256712963,Sirsa,Valentine's Day,10,6,February,February,1234,3702,8,Thursday,Friday
+843,C007,68,1,44968,0.906979167,44969,0.810520833,Bikaner,Valentine's Day,21,19,February,February,597,597,1,Saturday,Sunday
+864,C033,11,1,44968,0.815532407,44972,0.33724537,Lucknow,Valentine's Day,19,8,February,February,1096,1096,4,Saturday,Wednesday
+865,C032,19,1,44969,0.756412037,44970,0.276388889,Kumbakonam,Valentine's Day,18,6,February,February,1234,1234,1,Sunday,Monday
+869,C032,3,5,44963,0.418969907,44968,0.969768519,Hazaribagh,Valentine's Day,10,23,February,February,1534,7670,5,Monday,Saturday
+874,C010,68,1,44968,0.529513889,44978,0.733148148,Ramagundam,Valentine's Day,12,17,February,February,597,597,10,Saturday,Tuesday
+879,C092,33,2,44964,0.232337963,44967,0.477523148,Kishanganj,Valentine's Day,5,11,February,February,314,628,3,Tuesday,Friday
+891,C027,58,2,44965,0.622719907,44973,0.996354167,Shivpuri,Valentine's Day,14,23,February,February,1492,2984,8,Wednesday,Thursday
+892,C025,11,4,44963,0.772962963,44964,0.060347222,Thrissur,Valentine's Day,18,1,February,February,1096,4384,1,Monday,Tuesday
+898,C018,52,1,44966,0.263101852,44970,0.967847222,Kadapa,Valentine's Day,6,23,February,February,236,236,4,Thursday,Monday
+904,C013,2,4,44969,0.920694444,44974,0.04556713,Mira-Bhayandar,Valentine's Day,22,1,February,February,441,1764,5,Sunday,Friday
+905,C080,58,1,44967,0.813599537,44973,0.355717593,Ichalkaranji,Valentine's Day,19,8,February,February,1492,1492,6,Friday,Thursday
+906,C100,49,3,44963,0.053009259,44973,0.385277778,Jalandhar,Valentine's Day,1,9,February,February,903,2709,10,Monday,Thursday
+914,C048,33,4,44966,0.619652778,44971,0.40787037,Sambhal,Valentine's Day,14,9,February,February,314,1256,5,Thursday,Tuesday
+916,C063,33,2,44963,0.182743056,44971,0.888472222,Darbhanga,Valentine's Day,4,21,February,February,314,628,8,Monday,Tuesday
+918,C083,19,2,44969,0.759097222,44978,0.918125,Pali,Valentine's Day,18,22,February,February,1234,2468,9,Sunday,Tuesday
+952,C027,49,4,44969,0.116747685,44979,0.388298611,Bidar,Valentine's Day,2,9,February,February,903,3612,10,Sunday,Wednesday
+967,C041,68,4,44969,0.014849537,44977,0.770694444,Siliguri,Valentine's Day,0,18,February,February,597,2388,8,Sunday,Monday
+989,C017,52,3,44963,0.341284722,44972,0.08337963,Bidhannagar,Valentine's Day,8,2,February,February,236,708,9,Monday,Wednesday
+994,C004,68,2,44970,0.947638889,44978,0.281597222,Chandigarh,Valentine's Day,22,6,February,February,597,1194,8,Monday,Tuesday
+997,C098,19,2,44961,0.186423611,44967,0.493333333,Vasai-Virar,Valentine's Day,4,11,February,February,1234,2468,6,Saturday,Friday
+999,C054,52,2,44963,0.945011574,44967,0.520381944,Miryalaguda,Valentine's Day,22,12,February,February,236,472,4,Monday,Friday
+2,C019,41,2,45237,0.979375,45243,0.302974537,Jaipur,Diwali,23,7,November,November,1977,3954,6,Tuesday,Monday
+50,C014,41,4,45239,0.289270833,45246,0.430115741,Jamalpur,Diwali,6,10,November,November,1977,7908,7,Thursday,Thursday
+8,C097,43,3,45238,0.805578704,45244,0.364409722,Morena,Diwali,19,8,November,November,750,2250,6,Wednesday,Tuesday
+22,C054,43,1,45239,0.045462963,45244,0.409571759,Tenali,Diwali,1,9,November,November,750,750,5,Thursday,Tuesday
+39,C054,43,2,45232,0.809699074,45234,0.561597222,Vellore,Diwali,19,13,November,November,750,1500,2,Thursday,Saturday
+49,C020,43,1,45241,0.739236111,45248,0.576296296,Nangloi Jat,Diwali,17,13,November,November,750,750,7,Saturday,Saturday
+14,C042,60,1,45238,0.157013889,45245,0.505578704,Bilaspur,Diwali,3,12,November,November,827,827,7,Wednesday,Wednesday
+17,C056,60,2,45234,0.480243056,45243,0.777928241,Kota,Diwali,11,18,November,November,827,1654,9,Saturday,Monday
+38,C067,37,3,45241,0.521157407,45244,0.517256944,Indore,Diwali,12,12,November,November,1428,4284,3,Saturday,Tuesday
+40,C066,48,4,45232,0.593865741,45235,0.187430556,Raiganj,Diwali,14,4,November,November,433,1732,3,Thursday,Sunday
+61,C058,44,2,45238,0.935011574,45240,0.339247685,Panihati,Diwali,22,8,November,November,794,1588,2,Wednesday,Friday
+76,C054,4,1,45239,0.217488426,45242,0.024189815,Anand,Diwali,5,0,November,November,1199,1199,3,Thursday,Sunday
+90,C088,41,3,45239,0.871018519,45248,0.742071759,Shahjahanpur,Diwali,20,17,November,November,1977,5931,9,Thursday,Saturday
+97,C041,41,1,45233,0.841342593,45238,0.066261574,Bhavnagar,Diwali,20,1,November,November,1977,1977,5,Friday,Wednesday
+106,C095,41,2,45236,0.747060185,45238,0.958657407,Chinsurah,Diwali,17,23,November,November,1977,3954,2,Monday,Wednesday
+107,C041,4,3,45236,0.429247685,45242,0.597465278,Gorakhpur,Diwali,10,14,November,November,1199,3597,6,Monday,Sunday
+112,C023,37,3,45241,0.275046296,45244,0.660405093,Kochi,Diwali,6,15,November,November,1428,4284,3,Saturday,Tuesday
+116,C009,4,3,45241,0.602835648,45250,0.22599537,Howrah,Diwali,14,5,November,November,1199,3597,9,Saturday,Monday
+127,C051,60,4,45232,0.586550926,45233,0.809039352,Dhanbad,Diwali,14,19,November,November,827,3308,1,Thursday,Friday
+133,C018,43,5,45240,0.661041667,45246,0.474201389,Tiruppur,Diwali,15,11,November,November,750,3750,6,Friday,Thursday
+151,C051,43,1,45233,0.904467593,45240,0.163912037,Jalna,Diwali,21,3,November,November,750,750,7,Friday,Friday
+159,C095,43,3,45239,0.896979167,45241,0.205509259,Davanagere,Diwali,21,4,November,November,750,2250,2,Thursday,Saturday
+166,C035,4,3,45237,0.96212963,45240,0.258865741,Madanapalle,Diwali,23,6,November,November,1199,3597,3,Tuesday,Friday
+167,C019,37,4,45234,0.0603125,45237,0.636423611,Nangloi Jat,Diwali,1,15,November,November,1428,5712,3,Saturday,Tuesday
+174,C048,4,3,45233,0.652314815,45243,0.754699074,Malda,Diwali,15,18,November,November,1199,3597,10,Friday,Monday
+183,C082,48,3,45239,0.758113426,45241,0.645439815,Bahraich,Diwali,18,15,November,November,433,1299,2,Thursday,Saturday
+190,C096,60,5,45239,0.523483796,45243,0.570416667,Darbhanga,Diwali,12,13,November,November,827,4135,4,Thursday,Monday
+250,C086,37,5,45238,0.630173611,45239,0.063958333,Korba,Diwali,15,1,November,November,1428,7140,1,Wednesday,Thursday
+256,C065,4,5,45236,0.801261574,45244,0.754108796,Suryapet,Diwali,19,18,November,November,1199,5995,8,Monday,Tuesday
+261,C041,37,3,45236,0.58599537,45242,0.84568287,Malegaon,Diwali,14,20,November,November,1428,4284,6,Monday,Sunday
+274,C078,41,5,45232,0.276284722,45242,0.870555556,Raebareli,Diwali,6,20,November,November,1977,9885,10,Thursday,Sunday
+282,C092,41,2,45241,0.431122685,45249,0.924768519,Mangalore,Diwali,10,22,November,November,1977,3954,8,Saturday,Sunday
+309,C071,60,4,45240,0.276886574,45243,0.2184375,Mangalore,Diwali,6,5,November,November,827,3308,3,Friday,Monday
+314,C029,43,4,45235,0.492141204,45245,0.205150463,Patiala,Diwali,11,4,November,November,750,3000,10,Sunday,Wednesday
+331,C023,41,5,45234,0.909675926,45235,0.592731481,Patna,Diwali,21,14,November,November,1977,9885,1,Saturday,Sunday
+349,C017,44,4,45241,0.147650463,45242,0.438344907,Junagadh,Diwali,3,10,November,November,794,3176,1,Saturday,Sunday
+360,C099,41,1,45236,0.133298611,45239,0.73994213,Belgaum,Diwali,3,17,November,November,1977,1977,3,Monday,Thursday
+364,C003,43,3,45238,0.256261574,45239,0.192743056,Satara,Diwali,6,4,November,November,750,2250,1,Wednesday,Thursday
+374,C087,4,1,45237,0.324675926,45239,0.939398148,Guna,Diwali,7,22,November,November,1199,1199,2,Tuesday,Thursday
+380,C009,60,4,45238,0.564606481,45245,0.986539352,Bidhannagar,Diwali,13,23,November,November,827,3308,7,Wednesday,Wednesday
+383,C016,37,1,45236,0.011631944,45238,0.840185185,Panchkula,Diwali,0,20,November,November,1428,1428,2,Monday,Wednesday
+392,C085,4,2,45235,0.138136574,45236,0.786909722,Gangtok,Diwali,3,18,November,November,1199,2398,1,Sunday,Monday
+397,C034,4,5,45239,0.2834375,45244,0.564282407,Junagadh,Diwali,6,13,November,November,1199,5995,5,Thursday,Tuesday
+411,C006,48,1,45235,0.688587963,45238,0.306550926,Nadiad,Diwali,16,7,November,November,433,433,3,Sunday,Wednesday
+427,C042,48,5,45233,0.330925926,45243,0.94875,Gudivada,Diwali,7,22,November,November,433,2165,10,Friday,Monday
+444,C021,60,3,45232,0.042511574,45239,0.412731481,Jalna,Diwali,1,9,November,November,827,2481,7,Thursday,Thursday
+462,C069,60,5,45234,0.757013889,45243,0.597384259,Kirari Suleman Nagar,Diwali,18,14,November,November,827,4135,9,Saturday,Monday
+485,C029,43,4,45236,0.805833333,45244,0.810578704,Bhubaneswar,Diwali,19,19,November,November,750,3000,8,Monday,Tuesday
+512,C008,41,1,45235,0.112974537,45241,0.549074074,Ranchi,Diwali,2,13,November,November,1977,1977,6,Sunday,Saturday
+517,C064,60,5,45239,0.042511574,45247,0.795081019,Aligarh,Diwali,1,19,November,November,827,4135,8,Thursday,Friday
+587,C018,43,1,45232,0.035694444,45233,0.445208333,Panchkula,Diwali,0,10,November,November,750,750,1,Thursday,Friday
+598,C054,37,3,45241,0.119016204,45248,0.912118056,Ratlam,Diwali,2,21,November,November,1428,4284,7,Saturday,Saturday
+602,C042,43,5,45232,0.428761574,45241,0.251388889,Buxar,Diwali,10,6,November,November,750,3750,9,Thursday,Saturday
+613,C063,4,5,45240,0.746226852,45244,0.804479167,Gwalior,Diwali,17,19,November,November,1199,5995,4,Friday,Tuesday
+616,C006,44,5,45238,0.998576389,45242,0.806238426,Phagwara,Diwali,23,19,November,November,794,3970,4,Wednesday,Sunday
+618,C073,60,4,45235,0.67306713,45245,0.723333333,Lucknow,Diwali,16,17,November,November,827,3308,10,Sunday,Wednesday
+622,C084,4,4,45238,0.592731481,45239,0.66599537,Bhiwandi,Diwali,14,15,November,November,1199,4796,1,Wednesday,Thursday
+623,C045,37,2,45238,0.567939815,45248,0.601145833,Lucknow,Diwali,13,14,November,November,1428,2856,10,Wednesday,Saturday
+642,C021,44,5,45232,0.226435185,45237,0.020729167,Kozhikode,Diwali,5,0,November,November,794,3970,5,Thursday,Tuesday
+648,C040,41,3,45235,0.796018519,45239,0.350694444,Chittoor,Diwali,19,8,November,November,1977,5931,4,Sunday,Thursday
+649,C053,43,3,45232,0.128946759,45241,0.371701389,Naihati,Diwali,3,8,November,November,750,2250,9,Thursday,Saturday
+667,C052,44,3,45234,0.352060185,45237,0.43818287,Alwar,Diwali,8,10,November,November,794,2382,3,Saturday,Tuesday
+672,C049,44,5,45237,0.587673611,45239,0.282372685,Saharanpur,Diwali,14,6,November,November,794,3970,2,Tuesday,Thursday
+677,C045,37,5,45234,0.329178241,45244,0.230960648,Panihati,Diwali,7,5,November,November,1428,7140,10,Saturday,Tuesday
+690,C083,48,2,45232,0.88431713,45235,0.897777778,Jaunpur,Diwali,21,21,November,November,433,866,3,Thursday,Sunday
+691,C002,48,5,45236,0.224108796,45240,0.464189815,Naihati,Diwali,5,11,November,November,433,2165,4,Monday,Friday
+693,C041,4,5,45234,0.992303241,45237,0.230173611,Ghaziabad,Diwali,23,5,November,November,1199,5995,3,Saturday,Tuesday
+701,C080,41,5,45237,0.456643519,45241,0.205856481,Tezpur,Diwali,10,4,November,November,1977,9885,4,Tuesday,Saturday
+702,C067,60,1,45240,0.364166667,45248,0.268171296,Giridih,Diwali,8,6,November,November,827,827,8,Friday,Saturday
+713,C081,37,3,45238,0.97525463,45245,0.952326389,Tiruppur,Diwali,23,22,November,November,1428,4284,7,Wednesday,Wednesday
+743,C045,4,2,45239,0.56119213,45243,0.053055556,Tiruppur,Diwali,13,1,November,November,1199,2398,4,Thursday,Monday
+745,C052,44,1,45237,0.383634259,45239,0.02087963,Kolkata,Diwali,9,0,November,November,794,794,2,Tuesday,Thursday
+753,C045,60,1,45236,0.288634259,45242,0.200706019,Tinsukia,Diwali,6,4,November,November,827,827,6,Monday,Sunday
+759,C084,48,5,45232,0.25849537,45241,0.254814815,Bathinda,Diwali,6,6,November,November,433,2165,9,Thursday,Saturday
+765,C055,41,2,45233,0.109490741,45236,0.161423611,Ambala,Diwali,2,3,November,November,1977,3954,3,Friday,Monday
+776,C051,43,1,45239,0.311736111,45242,0.90212963,Alwar,Diwali,7,21,November,November,750,750,3,Thursday,Sunday
+792,C015,43,2,45239,0.292314815,45240,0.218194444,Munger,Diwali,7,5,November,November,750,1500,1,Thursday,Friday
+822,C075,41,5,45239,0.141041667,45242,0.177280093,Indore,Diwali,3,4,November,November,1977,9885,3,Thursday,Sunday
+834,C029,60,5,45233,0.774537037,45242,0.584594907,Thrissur,Diwali,18,14,November,November,827,4135,9,Friday,Sunday
+836,C020,44,5,45238,0.108391204,45241,0.132951389,Tumkur,Diwali,2,3,November,November,794,3970,3,Wednesday,Saturday
+847,C009,44,4,45237,0.757141204,45242,0.431666667,Bareilly,Diwali,18,10,November,November,794,3176,5,Tuesday,Sunday
+852,C035,44,2,45241,0.40400463,45244,0.594097222,Ozhukarai,Diwali,9,14,November,November,794,1588,3,Saturday,Tuesday
+858,C046,44,4,45238,0.077638889,45239,0.667638889,Saharanpur,Diwali,1,16,November,November,794,3176,1,Wednesday,Thursday
+859,C047,43,1,45240,0.296076389,45245,0.073923611,Varanasi,Diwali,7,1,November,November,750,750,5,Friday,Wednesday
+867,C014,48,1,45232,0.515347222,45234,0.21443287,Hajipur,Diwali,12,5,November,November,433,433,2,Thursday,Saturday
+870,C018,43,5,45235,0.634560185,45237,0.284479167,Pallavaram,Diwali,15,6,November,November,750,3750,2,Sunday,Tuesday
+876,C016,4,4,45236,0.401805556,45244,0.866481481,Jaunpur,Diwali,9,20,November,November,1199,4796,8,Monday,Tuesday
+878,C057,4,2,45240,0.692349537,45249,0.698310185,Singrauli,Diwali,16,16,November,November,1199,2398,9,Friday,Sunday
+927,C100,43,4,45233,0.2765625,45241,0.208530093,Gopalpur,Diwali,6,5,November,November,750,3000,8,Friday,Saturday
+936,C045,43,4,45232,0.893414352,45238,0.41912037,Bardhaman,Diwali,21,10,November,November,750,3000,6,Thursday,Wednesday
+954,C063,44,3,45232,0.167858796,45233,0.764594907,Ballia,Diwali,4,18,November,November,794,2382,1,Thursday,Friday
+960,C032,48,3,45235,0.226261574,45238,0.414085648,Nadiad,Diwali,5,9,November,November,433,1299,3,Sunday,Wednesday
+988,C020,4,3,45240,0.407835648,45245,0.437025463,Mau,Diwali,9,10,November,November,1199,3597,5,Friday,Wednesday
+992,C091,43,3,45232,0.58962963,45233,0.814340278,Chittoor,Diwali,14,19,November,November,750,2250,1,Thursday,Friday
+998,C046,44,1,45236,0.678599537,45244,0.189872685,Ballia,Diwali,16,4,November,November,794,794,8,Monday,Tuesday
+48,C031,65,4,45242,0.833680556,45246,0.230347222,Delhi,All Occasions,20,5,November,November,1895,7580,4,Sunday,Thursday
+99,C050,38,3,45234,0.583865741,45235,0.65599537,Burhanpur,Birthday,14,15,November,November,562,1686,1,Saturday,Sunday
+113,C032,1,3,45244,0.646180556,45253,0.185266204,Bulandshahr,All Occasions,15,4,November,November,1935,5805,9,Tuesday,Thursday
+154,C049,45,5,45251,0.968263889,45255,0.086793981,Indore,Birthday,23,2,November,November,722,3610,4,Tuesday,Saturday
+178,C097,61,1,45244,0.961469907,45246,0.093321759,Bhilai,Anniversary,23,2,November,November,810,810,2,Tuesday,Thursday
+189,C016,57,1,45249,0.723831019,45252,0.556875,Srikakulam,Birthday,17,13,November,November,1582,1582,3,Sunday,Wednesday
+273,C047,10,2,45252,0.675405093,45254,0.078333333,Moradabad,Birthday,16,1,November,November,259,518,2,Wednesday,Friday
+279,C067,23,4,45254,0.38525463,45256,0.744016204,Chinsurah,Anniversary,9,17,November,November,1098,4392,2,Friday,Sunday
+283,C086,23,2,45253,0.119143519,45260,0.765046296,Erode,Anniversary,2,18,November,November,1098,2196,7,Thursday,Thursday
+299,C091,8,5,45238,0.493993056,45247,0.5540625,Vellore,Anniversary,11,13,November,November,252,1260,9,Wednesday,Friday
+303,C051,14,1,45250,0.279826389,45259,0.29724537,Narasaraopet,Birthday,6,7,November,November,1915,1915,9,Monday,Wednesday
+335,C013,17,2,45236,0.089988426,45238,0.099583333,Sri Ganganagar,Anniversary,2,2,November,November,1899,3798,2,Monday,Wednesday
+342,C062,36,5,45233,0.169247685,45238,0.684907407,Salem,Birthday,4,16,November,November,203,1015,5,Friday,Wednesday
+372,C006,25,3,45238,0.794733796,45248,0.769976852,Kamarhati,Anniversary,19,18,November,November,1202,3606,10,Wednesday,Saturday
+388,C066,36,2,45240,0.010532407,45248,0.442430556,Jalna,Birthday,0,10,November,November,203,406,8,Friday,Saturday
+393,C087,17,5,45244,0.459236111,45252,0.674143519,Solapur,Anniversary,11,16,November,November,1899,9495,8,Tuesday,Wednesday
+434,C020,51,4,45258,0.307708333,45259,0.821898148,Kirari Suleman Nagar,All Occasions,7,19,November,November,1084,4336,1,Tuesday,Wednesday
+541,C007,24,3,45243,0.243854167,45246,0.955949074,Sasaram,Birthday,5,22,November,November,535,1605,3,Monday,Thursday
+595,C022,51,4,45238,0.575914352,45245,0.17119213,Dhanbad,All Occasions,13,4,November,November,1084,4336,7,Wednesday,Wednesday
+635,C095,67,1,45242,0.775821759,45252,0.308009259,Navi Mumbai,Anniversary,18,7,November,November,1374,1374,10,Sunday,Wednesday
+655,C015,17,1,45238,0.888240741,45247,0.790011574,Jalna,Anniversary,21,18,November,November,1899,1899,9,Wednesday,Friday
+727,C061,12,5,45248,0.067395833,45252,0.682314815,Anand,Anniversary,1,16,November,November,672,3360,4,Saturday,Wednesday
+740,C004,56,4,45237,0.674976852,45242,0.422118056,Silchar,Anniversary,16,10,November,November,1272,5088,5,Tuesday,Sunday
+754,C083,51,2,45231,0.861493056,45238,0.925844907,Pimpri-Chinchwad,All Occasions,20,22,November,November,1084,2168,7,Wednesday,Wednesday
+768,C087,1,1,45241,0.776168981,45246,0.513680556,Howrah,All Occasions,18,12,November,November,1935,1935,5,Saturday,Thursday
+839,C072,51,4,45232,0.16068287,45242,0.076284722,Udupi,All Occasions,3,1,November,November,1084,4336,10,Thursday,Sunday
+909,C084,42,1,45234,0.322118056,45238,0.93431713,Hyderabad,All Occasions,7,22,November,November,1744,1744,4,Saturday,Wednesday
+928,C012,23,3,45249,0.462777778,45257,0.427916667,Bihar Sharif,Anniversary,11,10,November,November,1098,3294,8,Sunday,Monday
+933,C038,51,3,45244,0.51181713,45253,0.118078704,Muzaffarnagar,All Occasions,12,2,November,November,1084,3252,9,Tuesday,Thursday
+944,C024,67,4,45247,0.857326389,45251,0.694907407,Amravati,Anniversary,20,16,November,November,1374,5496,4,Friday,Tuesday
+951,C024,20,1,45253,0.648715278,45255,0.794143519,Bongaigaon,Anniversary,15,19,November,November,697,697,2,Thursday,Saturday
+974,C014,17,4,45234,0.803460648,45237,0.674618056,Pallavaram,Anniversary,19,16,November,November,1899,7596,3,Saturday,Tuesday
+986,C086,1,2,45233,0.695763889,45235,0.946851852,Bally,All Occasions,16,22,November,November,1935,3870,2,Friday,Sunday
+98,C031,8,1,45229,0.643055556,45231,0.690601852,Bulandshahr,Anniversary,15,16,October,November,252,252,2,Monday,Wednesday
+102,C081,10,3,45227,0.815439815,45236,0.296238426,Ozhukarai,Birthday,19,7,October,November,259,777,9,Saturday,Monday
+491,C095,30,1,45223,0.260115741,45232,0.95787037,Muzaffarnagar,Anniversary,6,22,October,November,751,751,9,Tuesday,Thursday
+577,C008,20,4,45227,0.619050926,45235,0.785243056,Hazaribagh,Anniversary,14,18,October,November,697,2788,8,Saturday,Sunday
+799,C084,32,5,45221,0.076493056,45231,0.848912037,Patna,Birthday,1,20,October,November,1792,8960,10,Sunday,Wednesday
+828,C044,8,3,45223,0.69931713,45231,0.929837963,Gwalior,Anniversary,16,22,October,November,252,756,8,Tuesday,Wednesday
+932,C038,63,2,45228,0.689236111,45232,0.928599537,Durgapur,All Occasions,16,22,October,November,1348,2696,4,Sunday,Thursday
+60,C023,5,2,45273,0.282465278,45275,0.544398148,Darbhanga,All Occasions,6,13,December,December,1444,2888,2,Wednesday,Friday
+46,C059,22,4,45034,0.139710648,45039,0.335243056,Guna,All Occasions,3,8,April,April,1639,6556,5,Tuesday,Sunday
+24,C018,42,3,45132,0.215763889,45141,0.331655093,Durg,All Occasions,5,7,July,August,1744,5232,9,Tuesday,Thursday
+28,C088,42,3,45051,0.142650463,45056,0.329907407,Guwahati,All Occasions,3,7,May,May,1744,5232,5,Friday,Wednesday
+63,C056,42,3,45102,0.265717593,45103,0.652824074,Munger,All Occasions,6,15,June,June,1744,5232,1,Sunday,Monday
+59,C041,51,5,45103,0.1640625,45105,0.840324074,Thiruvananthapuram,All Occasions,3,20,June,June,1084,5420,2,Monday,Wednesday
+74,C024,31,3,44927,0.871782407,44933,0.376423611,Shivpuri,All Occasions,20,9,January,January,1804,5412,6,Sunday,Saturday
+75,C009,65,2,45022,0.465555556,45025,0.958726852,Bally,All Occasions,11,23,April,April,1895,3790,3,Thursday,Sunday
+80,C008,39,4,44928,0.463217593,44937,0.087384259,Salem,All Occasions,11,2,January,January,387,1548,9,Monday,Wednesday
+86,C046,39,4,45182,0.477650463,45191,0.589930556,Sirsa,All Occasions,11,14,September,September,387,1548,9,Wednesday,Friday
+100,C055,42,5,45055,0.243136574,45063,0.229467593,Bhiwani,All Occasions,5,5,May,May,1744,8720,8,Tuesday,Wednesday
+104,C082,51,3,45289,0.073252315,45296,0.010740741,Ahmednagar,All Occasions,1,0,December,January,1084,3252,7,Friday,Friday
+144,C090,51,5,44944,0.375729167,44949,0.141145833,Srinagar,All Occasions,9,3,January,January,1084,5420,5,Wednesday,Monday
+149,C008,5,3,45205,0.974409722,45208,0.839722222,Mangalore,All Occasions,23,20,October,October,1444,4332,3,Friday,Monday
+175,C042,31,1,45212,0.054016204,45219,0.307546296,Navi Mumbai,All Occasions,1,7,October,October,1804,1804,7,Friday,Friday
+188,C067,22,5,45187,0.0684375,45194,0.584861111,Serampore,All Occasions,1,14,September,September,1639,8195,7,Monday,Monday
+211,C043,31,5,45221,0.760405093,45228,0.736145833,Orai,All Occasions,18,17,October,October,1804,9020,7,Sunday,Sunday
+218,C061,31,4,45090,0.954988426,45093,0.129178241,Gurgaon,All Occasions,22,3,June,June,1804,7216,3,Tuesday,Friday
+234,C097,42,1,45009,0.887638889,45017,0.025613426,Khandwa,All Occasions,21,0,March,April,1744,1744,8,Friday,Saturday
+254,C093,1,5,45114,0.006759259,45122,0.227650463,Bhilai,All Occasions,0,5,July,July,1935,9675,8,Friday,Saturday
+278,C044,1,2,45097,0.981851852,45101,0.238009259,Ballia,All Occasions,23,5,June,June,1935,3870,4,Tuesday,Saturday
+293,C003,1,4,45173,0.169293981,45178,0.757361111,Tezpur,All Occasions,4,18,September,September,1935,7740,5,Monday,Saturday
+311,C051,39,2,45171,0.393599537,45181,0.744247685,Mehsana,All Occasions,9,17,September,September,387,774,10,Saturday,Tuesday
+327,C048,51,1,45193,0.395196759,45195,0.839641204,Muzaffarnagar,All Occasions,9,20,September,September,1084,1084,2,Sunday,Tuesday
+351,C099,1,1,44942,0.632719907,44951,0.937488426,Bhilai,All Occasions,15,22,January,January,1935,1935,9,Monday,Wednesday
+373,C026,65,2,45084,0.867488426,45087,0.99837963,North Dumdum,All Occasions,20,23,June,June,1895,3790,3,Wednesday,Saturday
+386,C091,5,4,45081,0.533159722,45091,0.899085648,Jalandhar,All Occasions,12,21,June,June,1444,5776,10,Sunday,Wednesday
+387,C061,1,2,45046,0.235011574,45055,0.094421296,Ahmedabad,All Occasions,5,2,April,May,1935,3870,9,Sunday,Tuesday
+391,C083,22,4,45289,0.572291667,45298,0.540752315,Bareilly,All Occasions,13,12,December,January,1639,6556,9,Friday,Sunday
+431,C057,1,4,45273,0.80119213,45279,0.876666667,Varanasi,All Occasions,19,21,December,December,1935,7740,6,Wednesday,Tuesday
+450,C096,39,5,45262,0.332002315,45272,0.423587963,Sri Ganganagar,All Occasions,7,10,December,December,387,1935,10,Saturday,Tuesday
+455,C072,1,2,45219,0.940162037,45224,0.753009259,Eluru,All Occasions,22,18,October,October,1935,3870,5,Friday,Wednesday
+457,C036,22,5,45073,0.5803125,45075,0.693344907,Mirzapur,All Occasions,13,16,May,May,1639,8195,2,Saturday,Monday
+468,C007,5,2,45132,0.331550926,45142,0.058877315,Rajahmundry,All Occasions,7,1,July,August,1444,2888,10,Tuesday,Friday
+469,C051,42,4,45275,0.295833333,45279,0.539456019,Kamarhati,All Occasions,7,12,December,December,1744,6976,4,Friday,Tuesday
+473,C061,22,3,45013,0.343020833,45020,0.655763889,Giridih,All Occasions,8,15,March,April,1639,4917,7,Tuesday,Tuesday
+484,C034,1,5,45072,0.794386574,45080,0.814085648,Morena,All Occasions,19,19,May,June,1935,9675,8,Friday,Saturday
+487,C053,51,1,44931,0.699270833,44935,0.186319444,Sasaram,All Occasions,16,4,January,January,1084,1084,4,Thursday,Monday
+502,C099,22,5,45101,0.231481481,45107,0.038703704,Munger,All Occasions,5,0,June,June,1639,8195,6,Saturday,Friday
+513,C088,1,4,45012,0.414953704,45018,0.581030093,Nandyal,All Occasions,9,13,March,April,1935,7740,6,Monday,Sunday
+516,C020,22,2,45112,0.870092593,45113,0.046064815,Gaya,All Occasions,20,1,July,July,1639,3278,1,Wednesday,Thursday
+534,C061,31,2,45257,0.152962963,45264,0.474039352,Naihati,All Occasions,3,11,November,December,1804,3608,7,Monday,Monday
+537,C064,42,3,45216,0.263472222,45224,0.131342593,Korba,All Occasions,6,3,October,October,1744,5232,8,Tuesday,Wednesday
+540,C082,22,4,45175,0.79693287,45178,0.059722222,Morbi,All Occasions,19,1,September,September,1639,6556,3,Wednesday,Saturday
+552,C064,31,3,45056,0.791331019,45057,0.714664352,Tezpur,All Occasions,18,17,May,May,1804,5412,1,Wednesday,Thursday
+566,C054,42,4,45058,0.533368056,45060,0.858703704,Patna,All Occasions,12,20,May,May,1744,6976,2,Friday,Sunday
+585,C013,63,5,45042,0.772696759,45047,0.077847222,Bhubaneswar,All Occasions,18,1,April,May,1348,6740,5,Wednesday,Monday
+591,C002,31,3,45113,0.538888889,45121,0.000590278,Surat,All Occasions,12,0,July,July,1804,5412,8,Thursday,Friday
+610,C068,5,3,44929,0.726168981,44931,0.008055556,Sirsa,All Occasions,17,0,January,January,1444,4332,2,Tuesday,Thursday
+632,C075,51,1,45118,0.940983796,45119,0.481134259,Adoni,All Occasions,22,11,July,July,1084,1084,1,Tuesday,Wednesday
+638,C060,39,1,45039,0.092743056,45043,0.118981481,Mira-Bhayandar,All Occasions,2,2,April,April,387,387,4,Sunday,Thursday
+661,C018,22,2,44940,0.9940625,44945,0.41025463,Guwahati,All Occasions,23,9,January,January,1639,3278,5,Saturday,Thursday
+671,C059,31,4,45263,0.287708333,45267,0.969664352,Karnal,All Occasions,6,23,December,December,1804,7216,4,Sunday,Thursday
+678,C020,31,5,45179,0.599988426,45189,0.425775463,Jalna,All Occasions,14,10,September,September,1804,9020,10,Sunday,Wednesday
+685,C054,22,1,45170,0.878240741,45180,0.3546875,Sikar,All Occasions,21,8,September,September,1639,1639,10,Friday,Monday
+699,C011,1,4,45079,0.510231481,45086,0.964618056,Chittoor,All Occasions,12,23,June,June,1935,7740,7,Friday,Friday
+712,C057,65,5,45118,0.541805556,45120,0.274270833,Hazaribagh,All Occasions,13,6,July,July,1895,9475,2,Tuesday,Thursday
+714,C053,63,2,45078,0.811215278,45080,0.329178241,Dhule,All Occasions,19,7,June,June,1348,2696,2,Thursday,Saturday
+720,C045,22,5,45275,0.612974537,45280,0.254953704,Vellore,All Occasions,14,6,December,December,1639,8195,5,Friday,Wednesday
+724,C059,51,1,45024,0.959930556,45032,0.333553241,Pallavaram,All Occasions,23,8,April,April,1084,1084,8,Saturday,Sunday
+732,C087,1,2,45215,0.699444444,45220,0.7890625,Bongaigaon,All Occasions,16,18,October,October,1935,3870,5,Monday,Saturday
+756,C034,51,4,45136,0.767673611,45141,0.413912037,Buxar,All Occasions,18,9,July,August,1084,4336,5,Saturday,Thursday
+766,C077,1,4,45109,0.686724537,45114,0.013703704,Hospet,All Occasions,16,0,July,July,1935,7740,5,Sunday,Friday
+773,C031,39,4,44933,0.09125,44939,0.991597222,Karaikudi,All Occasions,2,23,January,January,387,1548,6,Saturday,Friday
+774,C051,65,5,45094,0.8946875,45104,0.125925926,Begusarai,All Occasions,21,3,June,June,1895,9475,10,Saturday,Tuesday
+782,C087,22,4,45034,0.237037037,45042,0.809363426,Shimoga,All Occasions,5,19,April,April,1639,6556,8,Tuesday,Wednesday
+791,C093,51,2,45052,0.1040625,45055,0.287361111,Bhubaneswar,All Occasions,2,6,May,May,1084,2168,3,Saturday,Tuesday
+829,C020,42,4,45279,0.774780093,45286,0.429212963,Visakhapatnam,All Occasions,18,10,December,December,1744,6976,7,Tuesday,Tuesday
+844,C067,51,1,45208,0.800636574,45209,0.408645833,Satara,All Occasions,19,9,October,October,1084,1084,1,Monday,Tuesday
+853,C050,51,3,45186,0.885335648,45192,0.602407407,Jorhat,All Occasions,21,14,September,September,1084,3252,6,Sunday,Saturday
+885,C084,42,2,45216,0.828449074,45220,0.782060185,Pudukkottai,All Occasions,19,18,October,October,1744,3488,4,Tuesday,Saturday
+887,C091,51,3,45106,0.72255787,45107,0.413773148,Visakhapatnam,All Occasions,17,9,June,June,1084,3252,1,Thursday,Friday
+893,C010,63,3,45013,0.653263889,45023,0.617627315,Sangli-Miraj & Kupwad,All Occasions,15,14,March,April,1348,4044,10,Tuesday,Friday
+899,C011,63,1,45277,0.895775463,45284,0.011585648,Bijapur,All Occasions,21,0,December,December,1348,1348,7,Sunday,Sunday
+903,C066,63,2,45184,0.737766204,45191,0.811550926,Bhusawal,All Occasions,17,19,September,September,1348,2696,7,Friday,Friday
+911,C071,22,4,44949,0.221435185,44954,0.06619213,Nangloi Jat,All Occasions,5,1,January,January,1639,6556,5,Monday,Saturday
+925,C012,31,1,44934,0.038784722,44938,0.277164352,Pallavaram,All Occasions,0,6,January,January,1804,1804,4,Sunday,Thursday
+942,C024,51,1,45283,0.208136574,45286,0.664143519,Surat,All Occasions,4,15,December,December,1084,1084,3,Saturday,Tuesday
+950,C014,39,3,45215,0.813194444,45217,0.881481481,Tiruchirappalli,All Occasions,19,21,October,October,387,1161,2,Monday,Wednesday
+985,C070,31,4,45204,0.477314815,45212,0.703877315,Ludhiana,All Occasions,11,16,October,October,1804,7216,8,Thursday,Friday
+987,C018,65,3,45280,0.384224537,45285,0.173715278,Bulandshahr,All Occasions,9,4,December,December,1895,5685,5,Wednesday,Monday
+990,C021,42,2,45264,0.930555556,45268,0.998553241,Amritsar,All Occasions,22,23,December,December,1744,3488,4,Monday,Friday
+4,C012,14,5,45117,0.19755787,45126,0.27318287,Guwahati,Birthday,4,6,July,July,1915,9575,9,Monday,Wednesday
+44,C006,14,1,45124,0.915231481,45134,0.450104167,Bhavnagar,Birthday,21,10,July,July,1915,1915,10,Monday,Thursday
+7,C009,45,2,45054,0.07306713,45059,0.421724537,Nanded,Birthday,1,10,May,May,722,1444,5,Monday,Saturday
+29,C064,10,5,45191,0.046087963,45200,0.603657407,Kollam,Birthday,1,14,September,October,259,1295,9,Friday,Sunday
+67,C047,10,2,45113,0.728020833,45121,0.882650463,Thrissur,Birthday,17,21,July,July,259,518,8,Thursday,Friday
+12,C097,38,3,45119,0.353425926,45127,0.982604167,Karnal,Birthday,8,23,July,July,562,1686,8,Wednesday,Thursday
+58,C077,36,1,44932,0.119097222,44941,0.351597222,Amravati,Birthday,2,8,January,January,203,203,9,Friday,Sunday
+92,C100,18,5,45061,0.007847222,45071,0.470775463,Rohtak,Birthday,0,11,May,May,781,3905,10,Monday,Thursday
+93,C047,24,4,45047,0.743738426,45049,0.774953704,Warangal,Birthday,17,18,May,May,535,2140,2,Monday,Wednesday
+95,C039,70,4,45075,0.329641204,45080,0.303159722,Narasaraopet,Birthday,7,7,May,June,866,3464,5,Monday,Saturday
+101,C064,70,4,45096,0.164490741,45098,0.262928241,Belgaum,Birthday,3,6,June,June,866,3464,2,Monday,Wednesday
+115,C095,57,1,45044,0.757893519,45051,0.48369213,Jhansi,Birthday,18,11,April,May,1582,1582,7,Friday,Friday
+122,C083,24,5,45202,0.378043981,45212,0.135578704,Gulbarga,Birthday,9,3,October,October,535,2675,10,Tuesday,Friday
+123,C026,38,1,44941,0.021631944,44951,0.20744213,Malegaon,Birthday,0,4,January,January,562,562,10,Sunday,Wednesday
+130,C070,10,5,45038,0.564363426,45043,0.917986111,Darbhanga,Birthday,13,22,April,April,259,1295,5,Saturday,Thursday
+148,C046,24,3,45265,0.089675926,45267,0.373356481,Gopalpur,Birthday,2,8,December,December,535,1605,2,Tuesday,Thursday
+160,C037,36,3,45079,0.020104167,45087,0.328460648,Moradabad,Birthday,0,7,June,June,203,609,8,Friday,Saturday
+164,C063,14,5,45041,0.086134259,45043,0.492743056,Berhampore,Birthday,2,11,April,April,1915,9575,2,Tuesday,Thursday
+185,C068,18,1,45053,0.299131944,45063,0.833831019,Raurkela Industrial Township,Birthday,7,20,May,May,781,781,10,Sunday,Wednesday
+191,C012,24,3,45211,0.759097222,45216,0.368078704,Etawah,Birthday,18,8,October,October,535,1605,5,Thursday,Tuesday
+202,C089,36,5,45134,0.342916667,45139,0.126400463,Bhimavaram,Birthday,8,3,July,August,203,1015,5,Thursday,Tuesday
+204,C062,10,4,45110,0.449108796,45116,0.270173611,Jaipur,Birthday,10,6,July,July,259,1036,6,Monday,Sunday
+208,C001,18,5,45018,0.188043981,45028,0.29625,Kulti,Birthday,4,7,April,April,781,3905,10,Sunday,Wednesday
+209,C071,70,2,45099,0.030925926,45100,0.905925926,Hajipur,Birthday,0,21,June,June,866,1732,1,Thursday,Friday
+210,C095,32,4,45270,0.032314815,45275,0.335127315,Aligarh,Birthday,0,8,December,December,1792,7168,5,Sunday,Friday
+226,C064,14,2,45177,0.36724537,45181,0.472638889,Hospet,Birthday,8,11,September,September,1915,3830,4,Friday,Tuesday
+227,C004,24,4,45285,0.785208333,45286,0.590092593,Surat,Birthday,18,14,December,December,535,2140,1,Monday,Tuesday
+249,C003,14,2,45179,0.93212963,45188,0.970555556,Bareilly,Birthday,22,23,September,September,1915,3830,9,Sunday,Tuesday
+255,C092,45,2,45287,0.154571759,45297,0.391134259,Suryapet,Birthday,3,9,December,January,722,1444,10,Wednesday,Saturday
+266,C038,36,1,45058,0.574259259,45059,0.805659722,Sonipat,Birthday,13,19,May,May,203,203,1,Friday,Saturday
+269,C024,36,1,45224,0.050138889,45225,0.748761574,Raebareli,Birthday,1,17,October,October,203,203,1,Wednesday,Thursday
+271,C039,36,5,45100,0.769236111,45107,0.763946759,Patna,Birthday,18,18,June,June,203,1015,7,Friday,Friday
+295,C079,18,1,45075,0.662604167,45079,0.421319444,Tadepalligudem,Birthday,15,10,May,June,781,781,4,Monday,Friday
+296,C081,70,5,45017,0.496689815,45027,0.815115741,Tirunelveli,Birthday,11,19,April,April,866,4330,10,Saturday,Tuesday
+337,C008,24,3,45062,0.598055556,45068,0.851539352,Siwan,Birthday,14,20,May,May,535,1605,6,Tuesday,Monday
+340,C076,38,3,45121,0.328483796,45129,0.122233796,Davanagere,Birthday,7,2,July,July,562,1686,8,Friday,Saturday
+345,C056,45,4,45184,0.653263889,45192,0.966331019,Bellary,Birthday,15,23,September,September,722,2888,8,Friday,Saturday
+355,C099,10,1,45284,0.203287037,45293,0.401770833,Satara,Birthday,4,9,December,January,259,259,9,Sunday,Tuesday
+356,C028,14,1,45115,0.028935185,45116,0.188680556,Panvel,Birthday,0,4,July,July,1915,1915,1,Saturday,Sunday
+376,C097,10,2,45060,0.846203704,45065,0.991689815,Bulandshahr,Birthday,20,23,May,May,259,518,5,Sunday,Friday
+382,C003,24,1,45080,0.418275463,45090,0.912361111,Kamarhati,Birthday,10,21,June,June,535,535,10,Saturday,Tuesday
+400,C083,45,3,45053,0.58681713,45061,0.75755787,Kumbakonam,Birthday,14,18,May,May,722,2166,8,Sunday,Monday
+403,C075,57,1,44932,0.489907407,44942,0.842662037,Chapra,Birthday,11,20,January,January,1582,1582,10,Friday,Monday
+410,C025,24,1,44927,0.847789352,44928,0.247986111,Surendranagar Dudhrej,Birthday,20,5,January,January,535,535,1,Sunday,Monday
+415,C065,14,4,45085,0.839236111,45087,0.056203704,Hajipur,Birthday,20,1,June,June,1915,7660,2,Thursday,Saturday
+428,C038,10,2,45266,0.147662037,45272,0.817372685,Khora,Birthday,3,19,December,December,259,518,6,Wednesday,Tuesday
+452,C045,70,3,45116,0.831585648,45124,0.487708333,Mahbubnagar,Birthday,19,11,July,July,866,2598,8,Sunday,Monday
+458,C054,32,2,45126,0.723263889,45131,0.856064815,Ramgarh,Birthday,17,20,July,July,1792,3584,5,Wednesday,Monday
+463,C078,18,3,45193,0.93318287,45199,0.036145833,Hazaribagh,Birthday,22,0,September,September,781,2343,6,Sunday,Saturday
+464,C014,18,3,45112,0.12806713,45115,0.568576389,Buxar,Birthday,3,13,July,July,781,2343,3,Wednesday,Saturday
+486,C030,24,1,45132,0.607291667,45137,0.707349537,Ambattur,Birthday,14,16,July,July,535,535,5,Tuesday,Sunday
+505,C028,45,3,45079,0.555150463,45082,0.083009259,Allahabad,Birthday,13,1,June,June,722,2166,3,Friday,Monday
+514,C090,24,1,44927,0.41400463,44935,0.747824074,Allahabad,Birthday,9,17,January,January,535,535,8,Sunday,Monday
+515,C078,14,5,45220,0.9740625,45226,0.624872685,Unnao,Birthday,23,14,October,October,1915,9575,6,Saturday,Friday
+518,C045,45,3,45025,0.199085648,45031,0.819976852,Ahmednagar,Birthday,4,19,April,April,722,2166,6,Sunday,Saturday
+520,C026,14,5,45023,0.197118056,45024,0.34837963,Mysore,Birthday,4,8,April,April,1915,9575,1,Friday,Saturday
+533,C006,14,3,45034,0.305462963,45036,0.738715278,Raurkela Industrial Township,Birthday,7,17,April,April,1915,5745,2,Tuesday,Thursday
+538,C097,24,5,45064,0.547986111,45065,0.941851852,Ghaziabad,Birthday,13,22,May,May,535,2675,1,Thursday,Friday
+559,C084,45,1,45279,0.692488426,45286,0.774803241,Mau,Birthday,16,18,December,December,722,722,7,Tuesday,Tuesday
+568,C056,10,1,45106,0.871979167,45115,0.552939815,Bhubaneswar,Birthday,20,13,June,July,259,259,9,Thursday,Saturday
+578,C008,18,4,45138,0.769212963,45144,0.69681713,Warangal,Birthday,18,16,July,August,781,3124,6,Monday,Sunday
+580,C093,24,4,45093,0.918888889,45097,0.517847222,Bhatpara,Birthday,22,12,June,June,535,2140,4,Friday,Tuesday
+581,C082,18,2,45109,0.089155093,45118,0.622905093,Anand,Birthday,2,14,July,July,781,1562,9,Sunday,Tuesday
+605,C068,45,2,45281,0.931319444,45285,0.867743056,Kakinada,Birthday,22,20,December,December,722,1444,4,Thursday,Monday
+631,C044,32,4,45029,0.904050926,45033,0.156284722,Gopalpur,Birthday,21,3,April,April,1792,7168,4,Thursday,Monday
+634,C038,57,3,45053,0.275185185,45057,0.572094907,Fatehpur,Birthday,6,13,May,May,1582,4746,4,Sunday,Thursday
+639,C098,24,1,45072,0.10869213,45077,0.137789352,Amaravati,Birthday,2,3,May,May,535,535,5,Friday,Wednesday
+646,C015,38,5,45059,0.687615741,45069,0.386782407,Morbi,Birthday,16,9,May,May,562,2810,10,Saturday,Tuesday
+664,C023,24,2,44944,0.496226852,44954,0.848703704,Hajipur,Birthday,11,20,January,January,535,1070,10,Wednesday,Saturday
+684,C029,70,3,45186,0.065162037,45194,0.114340278,Tumkur,Birthday,1,2,September,September,866,2598,8,Sunday,Monday
+715,C069,38,4,45030,0.21994213,45037,0.694108796,Tenali,Birthday,5,16,April,April,562,2248,7,Friday,Friday
+719,C092,57,3,45119,0.3228125,45126,0.077361111,Phagwara,Birthday,7,1,July,July,1582,4746,7,Wednesday,Wednesday
+733,C060,32,3,45017,0.035844907,45019,0.101886574,Ludhiana,Birthday,0,2,April,April,1792,5376,2,Saturday,Monday
+736,C008,70,5,45048,0.157685185,45057,0.193564815,Ghaziabad,Birthday,3,4,May,May,866,4330,9,Tuesday,Thursday
+744,C023,45,4,45212,0.745381944,45213,0.334780093,Junagadh,Birthday,17,8,October,October,722,2888,1,Friday,Saturday
+760,C043,18,1,45188,0.102835648,45190,0.56224537,Ghaziabad,Birthday,2,13,September,September,781,781,2,Tuesday,Thursday
+761,C008,24,5,45034,0.142511574,45041,0.495671296,Ambala,Birthday,3,11,April,April,535,2675,7,Tuesday,Tuesday
+800,C014,24,5,45094,0.909976852,45098,0.30068287,Machilipatnam,Birthday,21,7,June,June,535,2675,4,Saturday,Wednesday
+805,C028,24,3,45088,0.610509259,45091,0.755081019,Bareilly,Birthday,14,18,June,June,535,1605,3,Sunday,Wednesday
+810,C059,24,3,45275,0.248078704,45277,0.504074074,New Delhi,Birthday,5,12,December,December,535,1605,2,Friday,Sunday
+811,C020,14,5,45217,0.502905093,45224,0.913796296,Bellary,Birthday,12,21,October,October,1915,9575,7,Wednesday,Wednesday
+813,C094,32,4,44945,0.370636574,44949,0.917372685,Bhind,Birthday,8,22,January,January,1792,7168,4,Thursday,Monday
+835,C089,32,2,45112,0.733252315,45113,0.982071759,Cuttack,Birthday,17,23,July,July,1792,3584,1,Wednesday,Thursday
+837,C036,14,5,45279,0.539722222,45281,0.000416667,Raebareli,Birthday,12,0,December,December,1915,9575,2,Tuesday,Thursday
+845,C032,57,5,45216,0.785601852,45224,0.1215625,Hospet,Birthday,18,2,October,October,1582,7910,8,Tuesday,Wednesday
+860,C064,14,1,44936,0.812488426,44939,0.562847222,Adoni,Birthday,19,13,January,January,1915,1915,3,Tuesday,Friday
+883,C041,36,4,45123,0.822268519,45124,0.877106481,Shahjahanpur,Birthday,19,21,July,July,203,812,1,Sunday,Monday
+895,C066,45,1,45013,0.781898148,45022,0.120601852,Sambhal,Birthday,18,2,March,April,722,722,9,Tuesday,Thursday
+900,C027,57,3,45023,0.63125,45031,0.354780093,Sagar,Birthday,15,8,April,April,1582,4746,8,Friday,Saturday
+920,C026,45,1,45106,0.849363426,45115,0.987233796,Gorakhpur,Birthday,20,23,June,July,722,722,9,Thursday,Saturday
+931,C053,14,1,45033,0.825138889,45035,0.43443287,Mahbubnagar,Birthday,19,10,April,April,1915,1915,2,Monday,Wednesday
+940,C082,57,4,44937,0.985011574,44938,0.17005787,Orai,Birthday,23,4,January,January,1582,6328,1,Wednesday,Thursday
+941,C058,18,4,45065,0.38619213,45068,0.436122685,Bidar,Birthday,9,10,May,May,781,3124,3,Friday,Monday
+945,C038,18,2,45137,0.500023148,45144,0.531122685,Raebareli,Birthday,12,12,July,August,781,1562,7,Sunday,Sunday
+947,C100,38,3,45205,0.802997685,45207,0.975543981,Nadiad,Birthday,19,23,October,October,562,1686,2,Friday,Sunday
+955,C015,24,4,45080,0.021388889,45084,0.380162037,Singrauli,Birthday,0,9,June,June,535,2140,4,Saturday,Wednesday
+964,C098,32,4,45218,0.27755787,45222,0.932395833,Jammu,Birthday,6,22,October,October,1792,7168,4,Thursday,Monday
+983,C094,70,1,45010,0.402592593,45017,0.276886574,Satna,Birthday,9,6,March,April,866,866,7,Saturday,Saturday
+995,C089,57,2,45127,0.028217593,45134,0.487534722,Muzaffarnagar,Birthday,0,11,July,July,1582,3164,7,Thursday,Thursday
+3,C029,67,5,45121,0.800034722,45126,0.735416667,Bilaspur,Anniversary,19,17,July,July,1374,6870,5,Friday,Wednesday
+33,C047,8,3,45031,0.067673611,45041,0.092673611,Amroha,Anniversary,1,2,April,April,252,756,10,Saturday,Tuesday
+23,C041,12,3,45051,0.228159722,45052,0.508611111,Ludhiana,Anniversary,5,12,May,May,672,2016,1,Friday,Saturday
+69,C091,12,4,45171,0.806724537,45177,0.395856481,Hyderabad,Anniversary,19,9,September,September,672,2688,6,Saturday,Friday
+34,C071,17,2,45200,0.957118056,45204,0.233865741,Tirupati,Anniversary,22,5,October,October,1899,3798,4,Sunday,Thursday
+70,C037,17,1,45197,0.181354167,45202,0.489270833,Vijayanagaram,Anniversary,4,11,September,October,1899,1899,5,Thursday,Tuesday
+18,C072,23,4,45270,0.448784722,45271,0.014224537,Moradabad,Anniversary,10,0,December,December,1098,4392,1,Sunday,Monday
+30,C044,23,4,44939,0.391354167,44941,0.567337963,Bulandshahr,Anniversary,9,13,January,January,1098,4392,2,Friday,Sunday
+25,C091,30,3,45128,0.449270833,45131,0.603263889,Panipat,Anniversary,10,14,July,July,751,2253,3,Friday,Monday
+54,C059,30,1,45029,0.413206019,45039,0.604849537,Ratlam,Anniversary,9,14,April,April,751,751,10,Thursday,Sunday
+64,C015,25,1,45089,0.117118056,45092,0.920613426,Chittoor,Anniversary,2,22,June,June,1202,1202,3,Monday,Thursday
+41,C047,54,4,45085,0.805439815,45087,0.603958333,Saharsa,Anniversary,19,14,June,June,1236,4944,2,Thursday,Saturday
+65,C033,54,2,45170,0.54337963,45180,0.273518519,Berhampur,Anniversary,13,6,September,September,1236,2472,10,Friday,Monday
+45,C097,61,5,45044,0.601689815,45045,0.261527778,Haldia,Anniversary,14,6,April,April,810,4050,1,Friday,Saturday
+79,C010,40,2,45078,0.728819444,45088,0.315891204,Varanasi,Anniversary,17,7,June,June,1923,3846,10,Thursday,Sunday
+88,C008,15,4,45282,0.418414352,45292,0.51244213,Avadi,Anniversary,10,12,December,January,1488,5952,10,Friday,Monday
+111,C009,8,3,45098,0.596493056,45102,0.877743056,Ramgarh,Anniversary,14,21,June,June,252,756,4,Wednesday,Sunday
+120,C050,61,1,45285,0.935150463,45291,0.414861111,Kalyan-Dombivli,Anniversary,22,9,December,December,810,810,6,Monday,Sunday
+124,C030,67,4,45128,0.364525463,45130,0.224814815,Bhilwara,Anniversary,8,5,July,July,1374,5496,2,Friday,Sunday
+135,C087,30,2,45273,0.430659722,45274,0.655092593,Bokaro,Anniversary,10,15,December,December,751,1502,1,Wednesday,Thursday
+136,C036,56,1,45174,0.672905093,45178,0.925208333,Guna,Anniversary,16,22,September,September,1272,1272,4,Tuesday,Saturday
+139,C055,54,4,45057,0.176909722,45062,0.758842593,Amritsar,Anniversary,4,18,May,May,1236,4944,5,Thursday,Tuesday
+142,C029,23,2,45222,0.105011574,45226,0.183518519,Bharatpur,Anniversary,2,4,October,October,1098,2196,4,Monday,Friday
+155,C023,23,3,45047,0.615949074,45052,0.000347222,Sambhal,Anniversary,14,0,May,May,1098,3294,5,Monday,Saturday
+171,C071,54,3,45107,0.491539352,45115,0.518819444,Tiruvottiyur,Anniversary,11,12,June,July,1236,3708,8,Friday,Saturday
+186,C048,61,1,45055,0.381759259,45057,0.011377315,Kollam,Anniversary,9,0,May,May,810,810,2,Tuesday,Thursday
+195,C037,67,5,45026,0.231863426,45033,0.327546296,Jamalpur,Anniversary,5,7,April,April,1374,6870,7,Monday,Monday
+200,C067,23,5,44929,0.836296296,44934,0.971435185,Agartala,Anniversary,20,23,January,January,1098,5490,5,Tuesday,Sunday
+205,C022,46,5,45113,0.220381944,45116,0.491111111,Davanagere,Anniversary,5,11,July,July,758,3790,3,Thursday,Sunday
+215,C098,17,1,45067,0.162800926,45070,0.526087963,Katni,Anniversary,3,12,May,May,1899,1899,3,Sunday,Wednesday
+216,C004,23,1,45202,0.657349537,45207,0.865601852,Bhatpara,Anniversary,15,20,October,October,1098,1098,5,Tuesday,Sunday
+236,C044,23,5,45172,0.273518519,45180,0.090486111,Panvel,Anniversary,6,2,September,September,1098,5490,8,Sunday,Monday
+241,C067,20,2,45174,0.411296296,45176,0.373854167,Indore,Anniversary,9,8,September,September,697,1394,2,Tuesday,Thursday
+247,C052,23,4,45210,0.249166667,45215,0.124143519,Gudivada,Anniversary,5,2,October,October,1098,4392,5,Wednesday,Monday
+258,C044,46,5,45032,0.2365625,45036,0.837175926,Vijayawada,Anniversary,5,20,April,April,758,3790,4,Sunday,Thursday
+272,C016,12,1,45024,0.402835648,45034,0.843009259,Kumbakonam,Anniversary,9,20,April,April,672,672,10,Saturday,Tuesday
+276,C065,15,2,45074,0.065347222,45078,0.295520833,Muzaffarpur,Anniversary,1,7,May,June,1488,2976,4,Sunday,Thursday
+281,C008,15,3,45190,0.858877315,45194,0.435578704,Nellore,Anniversary,20,10,September,September,1488,4464,4,Thursday,Monday
+292,C053,54,1,45196,0.94693287,45202,0.072766204,Howrah,Anniversary,22,1,September,October,1236,1236,6,Wednesday,Tuesday
+302,C071,25,4,45223,0.578530093,45224,0.717650463,Dhanbad,Anniversary,13,17,October,October,1202,4808,1,Tuesday,Wednesday
+313,C056,30,2,45129,0.808668981,45133,0.25431713,Thane,Anniversary,19,6,July,July,751,1502,4,Saturday,Wednesday
+322,C056,15,1,45027,0.35568287,45031,0.146145833,Udaipur,Anniversary,8,3,April,April,1488,1488,4,Tuesday,Saturday
+328,C024,23,3,45033,0.744189815,45038,0.374513889,Maheshtala,Anniversary,17,8,April,April,1098,3294,5,Monday,Saturday
+332,C052,20,5,45027,0.843206019,45034,0.590787037,Khammam,Anniversary,20,14,April,April,697,3485,7,Tuesday,Tuesday
+339,C083,8,1,45189,0.838414352,45198,0.451608796,Sirsa,Anniversary,20,10,September,September,252,252,9,Wednesday,Friday
+348,C060,30,2,45258,0.856678241,45267,0.502071759,Kalyan-Dombivli,Anniversary,20,12,November,December,751,1502,9,Tuesday,Thursday
+363,C022,15,2,45257,0.792372685,45265,0.076805556,Bhavnagar,Anniversary,19,1,November,December,1488,2976,8,Monday,Tuesday
+365,C028,8,5,45078,0.647071759,45081,0.427418981,Agra,Anniversary,15,10,June,June,252,1260,3,Thursday,Sunday
+370,C073,54,2,45116,0.248368056,45120,0.792824074,Danapur,Anniversary,5,19,July,July,1236,2472,4,Sunday,Thursday
+371,C090,23,4,45061,0.061087963,45065,0.436655093,Davanagere,Anniversary,1,10,May,May,1098,4392,4,Monday,Friday
+381,C013,25,3,44951,0.770868056,44954,0.264652778,Tiruchirappalli,Anniversary,18,6,January,January,1202,3606,3,Wednesday,Saturday
+384,C004,25,3,45057,0.706909722,45061,0.581400463,Bhilai,Anniversary,16,13,May,May,1202,3606,4,Thursday,Monday
+398,C080,54,1,45051,0.364826389,45061,0.417858796,Dehradun,Anniversary,8,10,May,May,1236,1236,10,Friday,Monday
+412,C081,67,2,45227,0.394722222,45230,0.968368056,Maheshtala,Anniversary,9,23,October,October,1374,2748,3,Saturday,Tuesday
+425,C071,56,1,45199,0.001458333,45208,0.957962963,North Dumdum,Anniversary,0,22,September,October,1272,1272,9,Saturday,Monday
+432,C092,12,4,44931,0.5065625,44939,0.819884259,Ballia,Anniversary,12,19,January,January,672,2688,8,Thursday,Friday
+439,C037,12,3,45273,0.372349537,45282,0.535486111,Hyderabad,Anniversary,8,12,December,December,672,2016,9,Wednesday,Friday
+445,C047,30,5,45091,0.839375,45092,0.598923611,Karnal,Anniversary,20,14,June,June,751,3755,1,Wednesday,Thursday
+461,C083,12,4,45099,0.342094907,45104,0.620092593,Srinagar,Anniversary,8,14,June,June,672,2688,5,Thursday,Tuesday
+466,C053,23,1,45202,0.582199074,45210,0.416446759,Bally,Anniversary,13,9,October,October,1098,1098,8,Tuesday,Wednesday
+472,C015,56,1,45284,0.314328704,45290,0.948819444,Khammam,Anniversary,7,22,December,December,1272,1272,6,Sunday,Saturday
+475,C099,46,2,45264,0.306516204,45268,0.564143519,Jalgaon,Anniversary,7,13,December,December,758,1516,4,Monday,Friday
+476,C067,40,2,45187,0.053680556,45189,0.745300926,Moradabad,Anniversary,1,17,September,September,1923,3846,2,Monday,Wednesday
+482,C050,23,3,45082,0.856689815,45091,0.872627315,Ludhiana,Anniversary,20,20,June,June,1098,3294,9,Monday,Wednesday
+500,C013,61,2,45106,0.42212963,45112,0.510011574,Bongaigaon,Anniversary,10,12,June,July,810,1620,6,Thursday,Wednesday
+501,C066,46,2,45171,0.685891204,45177,0.315,Navi Mumbai,Anniversary,16,7,September,September,758,1516,6,Saturday,Friday
+504,C058,25,1,45121,0.544930556,45131,0.222638889,Meerut,Anniversary,13,5,July,July,1202,1202,10,Friday,Monday
+510,C017,54,5,45268,0.541724537,45277,0.260266204,Panipat,Anniversary,13,6,December,December,1236,6180,9,Friday,Sunday
+523,C071,30,3,45109,0.567453704,45116,0.651805556,Muzaffarpur,Anniversary,13,15,July,July,751,2253,7,Sunday,Sunday
+532,C036,30,5,45171,0.559097222,45179,0.121608796,Bharatpur,Anniversary,13,2,September,September,751,3755,8,Saturday,Sunday
+535,C017,25,3,45115,0.916296296,45118,0.271296296,Saharsa,Anniversary,21,6,July,July,1202,3606,3,Saturday,Tuesday
+539,C056,20,3,45086,0.652291667,45093,0.595196759,Jehanabad,Anniversary,15,14,June,June,697,2091,7,Friday,Friday
+542,C051,54,5,45114,0.82037037,45119,0.41125,Satara,Anniversary,19,9,July,July,1236,6180,5,Friday,Wednesday
+547,C088,30,5,44936,0.104305556,44945,0.581030093,Ahmedabad,Anniversary,2,13,January,January,751,3755,9,Tuesday,Thursday
+551,C088,67,1,45035,0.863680556,45039,0.642407407,Kurnool,Anniversary,20,15,April,April,1374,1374,4,Wednesday,Sunday
+555,C100,56,4,45105,0.503969907,45107,0.74875,Ratlam,Anniversary,12,17,June,June,1272,5088,2,Wednesday,Friday
+556,C073,17,1,45273,0.648865741,45281,0.659583333,Cuttack,Anniversary,15,15,December,December,1899,1899,8,Wednesday,Thursday
+564,C007,40,1,45023,0.028009259,45031,0.254826389,Gandhinagar,Anniversary,0,6,April,April,1923,1923,8,Friday,Saturday
+572,C060,25,5,45081,0.658761574,45087,0.424861111,Kamarhati,Anniversary,15,10,June,June,1202,6010,6,Sunday,Saturday
+583,C025,56,4,45187,0.699594907,45191,0.832326389,Hosur,Anniversary,16,19,September,September,1272,5088,4,Monday,Friday
+589,C093,40,3,45269,0.891168981,45279,0.056643519,Lucknow,Anniversary,21,1,December,December,1923,5769,10,Saturday,Tuesday
+590,C006,23,2,44945,0.900243056,44949,0.245717593,Durg,Anniversary,21,5,January,January,1098,2196,4,Thursday,Monday
+594,C060,20,2,45072,0.893090278,45078,0.207962963,Varanasi,Anniversary,21,4,May,June,697,1394,6,Friday,Thursday
+603,C079,8,3,45075,0.224965278,45084,0.635243056,Tiruvottiyur,Anniversary,5,15,May,June,252,756,9,Monday,Wednesday
+609,C024,25,5,45226,0.464537037,45227,0.990914352,Hazaribagh,Anniversary,11,23,October,October,1202,6010,1,Friday,Saturday
+620,C074,67,3,45118,0.932650463,45125,0.058912037,Chapra,Anniversary,22,1,July,July,1374,4122,7,Tuesday,Tuesday
+626,C024,40,5,45192,0.63400463,45196,0.343310185,Bellary,Anniversary,15,8,September,September,1923,9615,4,Saturday,Wednesday
+641,C063,15,4,45064,0.999953704,45072,0.802025463,South Dumdum,Anniversary,23,19,May,May,1488,5952,8,Thursday,Friday
+644,C050,67,1,45170,0.62125,45180,0.473125,Parbhani,Anniversary,14,11,September,September,1374,1374,10,Friday,Monday
+653,C076,17,4,45259,0.568136574,45261,0.244571759,Bhilwara,Anniversary,13,5,November,December,1899,7596,2,Wednesday,Friday
+663,C094,15,2,45210,0.616064815,45211,0.938946759,Hosur,Anniversary,14,22,October,October,1488,2976,1,Wednesday,Thursday
+670,C057,23,5,45078,0.241655093,45087,0.214583333,Bhopal,Anniversary,5,5,June,June,1098,5490,9,Thursday,Saturday
+679,C019,56,2,45204,0.72869213,45213,0.540347222,Durg,Anniversary,17,12,October,October,1272,2544,9,Thursday,Saturday
+680,C018,56,1,45262,0.930914352,45268,0.106365741,Avadi,Anniversary,22,2,December,December,1272,1272,6,Saturday,Friday
+688,C015,54,2,44954,0.793136574,44956,0.577337963,Lucknow,Anniversary,19,13,January,January,1236,2472,2,Saturday,Monday
+694,C018,23,2,45031,0.810034722,45037,0.707534722,Kozhikode,Anniversary,19,16,April,April,1098,2196,6,Saturday,Friday
+706,C091,67,2,45042,0.232766204,45050,0.550810185,Madurai,Anniversary,5,13,April,May,1374,2748,8,Wednesday,Thursday
+710,C087,54,5,45068,0.064618056,45075,0.07212963,Jalna,Anniversary,1,1,May,May,1236,6180,7,Monday,Monday
+717,C059,67,5,45102,0.26287037,45103,0.972777778,Yamunanagar,Anniversary,6,23,June,June,1374,6870,1,Sunday,Monday
+737,C068,46,5,45183,0.316550926,45186,0.567418981,Bhilwara,Anniversary,7,13,September,September,758,3790,3,Thursday,Sunday
+749,C099,12,2,45096,0.550891204,45101,0.150844907,Nanded,Anniversary,13,3,June,June,672,1344,5,Monday,Saturday
+751,C084,23,5,45026,0.300393519,45031,0.078171296,Gandhidham,Anniversary,7,1,April,April,1098,5490,5,Monday,Saturday
+758,C043,40,5,45215,0.383634259,45219,0.157615741,Ajmer,Anniversary,9,3,October,October,1923,9615,4,Monday,Friday
+770,C080,25,3,45075,0.014548611,45084,0.402222222,Pallavaram,Anniversary,0,9,May,June,1202,3606,9,Monday,Wednesday
+778,C033,61,4,45056,0.165740741,45059,0.498113426,Raebareli,Anniversary,3,11,May,May,810,3240,3,Wednesday,Saturday
+781,C084,40,2,45196,0.643726852,45204,0.819074074,Muzaffarnagar,Anniversary,15,19,September,October,1923,3846,8,Wednesday,Thursday
+784,C042,56,2,45079,0.351296296,45084,0.261331019,Bhalswa Jahangir Pur,Anniversary,8,6,June,June,1272,2544,5,Friday,Wednesday
+796,C002,61,4,45051,0.328773148,45060,0.339178241,Rajkot,Anniversary,7,8,May,May,810,3240,9,Friday,Sunday
+798,C043,30,5,45277,0.732847222,45286,0.077881944,Sultan Pur Majra,Anniversary,17,1,December,December,751,3755,9,Sunday,Tuesday
+807,C006,40,4,45259,0.680775463,45269,0.131909722,Bhopal,Anniversary,16,3,November,December,1923,7692,10,Wednesday,Saturday
+812,C058,40,2,45272,0.722094907,45274,0.061481481,Ongole,Anniversary,17,1,December,December,1923,3846,2,Tuesday,Thursday
+815,C098,61,3,45198,0.297372685,45207,0.615486111,Bhatpara,Anniversary,7,14,September,October,810,2430,9,Friday,Sunday
+824,C097,46,4,45052,0.33068287,45053,0.641574074,Muzaffarpur,Anniversary,7,15,May,May,758,3032,1,Saturday,Sunday
+825,C044,25,5,45107,0.451666667,45108,0.755601852,Nellore,Anniversary,10,18,June,July,1202,6010,1,Friday,Saturday
+830,C007,46,2,44938,0.804780093,44941,0.211354167,Indore,Anniversary,19,5,January,January,758,1516,3,Thursday,Sunday
+831,C079,56,5,45070,0.778854167,45080,0.796030093,Rajahmundry,Anniversary,18,19,May,June,1272,6360,10,Wednesday,Saturday
+840,C031,67,2,44939,0.805266204,44942,0.493402778,Tirunelveli,Anniversary,19,11,January,January,1374,2748,3,Friday,Monday
+842,C085,46,2,45289,0.716354167,45292,0.102615741,Kulti,Anniversary,17,2,December,January,758,1516,3,Friday,Monday
+846,C069,15,4,45258,0.116423611,45262,0.288923611,Bhalswa Jahangir Pur,Anniversary,2,6,November,December,1488,5952,4,Tuesday,Saturday
+863,C099,20,3,45082,0.394490741,45092,0.134085648,Jehanabad,Anniversary,9,3,June,June,697,2091,10,Monday,Thursday
+871,C062,15,1,45088,0.253819444,45092,0.87287037,Secunderabad,Anniversary,6,20,June,June,1488,1488,4,Sunday,Thursday
+894,C092,54,4,45213,0.587303241,45220,0.965520833,Proddatur,Anniversary,14,23,October,October,1236,4944,7,Saturday,Saturday
+896,C053,46,1,45021,0.176331019,45026,0.534895833,Haldia,Anniversary,4,12,April,April,758,758,5,Wednesday,Monday
+907,C046,30,2,45035,0.900474537,45041,0.466701389,Burhanpur,Anniversary,21,11,April,April,751,1502,6,Wednesday,Tuesday
+913,C092,56,5,45270,0.777361111,45272,0.234108796,Bharatpur,Anniversary,18,5,December,December,1272,6360,2,Sunday,Tuesday
+917,C052,12,3,44950,0.247847222,44955,0.461377315,Bareilly,Anniversary,5,11,January,January,672,2016,5,Tuesday,Sunday
+921,C078,23,4,45187,0.578240741,45192,0.30724537,Ghaziabad,Anniversary,13,7,September,September,1098,4392,5,Monday,Saturday
+922,C009,23,1,45274,0.386388889,45278,0.335844907,Mahbubnagar,Anniversary,9,8,December,December,1098,1098,4,Thursday,Monday
+924,C013,17,1,45010,0.407743056,45020,0.955613426,Sagar,Anniversary,9,22,March,April,1899,1899,10,Saturday,Tuesday
+930,C083,61,3,45080,0.661469907,45084,0.8203125,Gangtok,Anniversary,15,19,June,June,810,2430,4,Saturday,Wednesday
+946,C050,17,4,45262,0.463530093,45269,0.738391204,Ratlam,Anniversary,11,17,December,December,1899,7596,7,Saturday,Saturday
+953,C076,40,1,45172,0.01806713,45173,0.315162037,Varanasi,Anniversary,0,7,September,September,1923,1923,1,Sunday,Monday
+957,C038,23,1,45275,0.08099537,45277,0.880497685,Kanpur,Anniversary,1,21,December,December,1098,1098,2,Friday,Sunday
+959,C098,40,1,45281,0.079699074,45286,0.878993056,Raebareli,Anniversary,1,21,December,December,1923,1923,5,Thursday,Tuesday
+962,C028,17,5,45198,0.497141204,45200,0.677175926,Kalyan-Dombivli,Anniversary,11,16,September,October,1899,9495,2,Friday,Sunday
+970,C020,54,4,45029,0.1434375,45037,0.900891204,Siliguri,Anniversary,3,21,April,April,1236,4944,8,Thursday,Friday
+972,C026,30,2,45046,0.065671296,45048,0.22724537,Ujjain,Anniversary,1,5,April,May,751,1502,2,Sunday,Tuesday
+976,C017,17,2,45065,0.299409722,45066,0.360046296,Raichur,Anniversary,7,8,May,May,1899,3798,1,Friday,Saturday
+980,C067,12,5,45190,0.857939815,45199,0.0303125,Bijapur,Anniversary,20,0,September,September,672,3360,9,Thursday,Saturday
+981,C014,46,2,45018,0.83412037,45019,0.848344907,Dehradun,Anniversary,20,20,April,April,758,1516,1,Sunday,Monday
+993,C082,61,5,45207,0.898680556,45213,0.663865741,Kishanganj,Anniversary,21,15,October,October,810,4050,6,Sunday,Saturday
+996,C077,25,5,45059,0.288298611,45065,0.237037037,Faridabad,Anniversary,6,5,May,May,1202,6010,6,Saturday,Friday
+52,C023,9,1,45167,0.830115741,45176,0.181967593,Hospet,Raksha Bandhan,19,4,August,September,1605,1605,9,Tuesday,Thursday
+83,C036,27,4,45161,0.800011574,45171,0.613888889,Asansol,Raksha Bandhan,19,14,August,September,548,2192,10,Wednesday,Saturday
+145,C055,59,5,45167,0.703425926,45172,0.544733796,Kumbakonam,Raksha Bandhan,16,13,August,September,811,4055,5,Tuesday,Sunday
+162,C050,55,3,45165,0.260081019,45174,0.662326389,Barasat,Raksha Bandhan,6,15,August,September,1904,5712,9,Sunday,Tuesday
+181,C064,10,4,45166,0.246782407,45175,0.203796296,Howrah,Birthday,5,4,August,September,259,1036,9,Monday,Wednesday
+198,C090,24,2,45165,0.940011574,45173,0.04849537,Phagwara,Birthday,22,1,August,September,535,1070,8,Sunday,Monday
+203,C039,9,5,45167,0.235416667,45177,0.944606481,Vijayanagaram,Raksha Bandhan,5,22,August,September,1605,8025,10,Tuesday,Friday
+230,C053,64,3,45165,0.352662037,45170,0.066539352,Mehsana,Raksha Bandhan,8,1,August,September,1878,5634,5,Sunday,Friday
+239,C088,27,3,45167,0.356770833,45175,0.557731481,Gurgaon,Raksha Bandhan,8,13,August,September,548,1644,8,Tuesday,Wednesday
+270,C084,21,5,45160,0.848252315,45170,0.66943287,Avadi,Raksha Bandhan,20,16,August,September,1561,7805,10,Tuesday,Friday
+289,C018,30,4,45167,0.986122685,45175,0.118125,Imphal,Anniversary,23,2,August,September,751,3004,8,Tuesday,Wednesday
+300,C032,22,1,45167,0.805613426,45177,0.767546296,Tinsukia,All Occasions,19,18,August,September,1639,1639,10,Tuesday,Friday
+325,C091,27,5,45163,0.771354167,45173,0.835150463,Amritsar,Raksha Bandhan,18,20,August,September,548,2740,10,Friday,Monday
+326,C088,34,3,45165,0.652141204,45172,0.648287037,Panchkula,Raksha Bandhan,15,15,August,September,1335,4005,7,Sunday,Sunday
+329,C095,17,3,45164,0.098645833,45173,0.131157407,Nashik,Anniversary,2,3,August,September,1899,5697,9,Saturday,Monday
+330,C059,59,2,45162,0.850798611,45170,0.518287037,Shahjahanpur,Raksha Bandhan,20,12,August,September,811,1622,8,Thursday,Friday
+334,C066,53,1,45166,0.888726852,45170,0.918784722,Patiala,Raksha Bandhan,21,22,August,September,1672,1672,4,Monday,Friday
+344,C020,28,5,45167,0.71275463,45172,0.269525463,Tiruvottiyur,Raksha Bandhan,17,6,August,September,1778,8890,5,Tuesday,Sunday
+347,C034,34,2,45167,0.4071875,45177,0.359131944,Shimoga,Raksha Bandhan,9,8,August,September,1335,2670,10,Tuesday,Friday
+352,C080,28,1,45161,0.992881944,45171,0.385324074,Bellary,Raksha Bandhan,23,9,August,September,1778,1778,10,Wednesday,Saturday
+401,C089,9,5,45167,0.828854167,45173,0.30494213,Bharatpur,Raksha Bandhan,19,7,August,September,1605,8025,6,Tuesday,Monday
+406,C049,55,4,45163,0.666168981,45171,0.266585648,Srikakulam,Raksha Bandhan,15,6,August,September,1904,7616,8,Friday,Saturday
+418,C069,64,3,45162,0.553726852,45170,0.484143519,Karimnagar,Raksha Bandhan,13,11,August,September,1878,5634,8,Thursday,Friday
+467,C056,53,1,45166,0.596342593,45171,0.639016204,Gandhidham,Raksha Bandhan,14,15,August,September,1672,1672,5,Monday,Saturday
+489,C072,10,1,45166,0.93537037,45171,0.188032407,Kirari Suleman Nagar,Birthday,22,4,August,September,259,259,5,Monday,Saturday
+497,C081,64,2,45167,0.84306713,45170,0.196481481,Alwar,Raksha Bandhan,20,4,August,September,1878,3756,3,Tuesday,Friday
+499,C031,59,1,45165,0.506481481,45171,0.41912037,Ichalkaranji,Raksha Bandhan,12,10,August,September,811,811,6,Sunday,Saturday
+503,C020,34,1,45167,0.865104167,45175,0.326319444,Dehri,Raksha Bandhan,20,7,August,September,1335,1335,8,Tuesday,Wednesday
+506,C058,55,4,45165,0.369490741,45171,0.488472222,Thrissur,Raksha Bandhan,8,11,August,September,1904,7616,6,Sunday,Saturday
+531,C029,28,5,45167,0.563981481,45176,0.363321759,Dehradun,Raksha Bandhan,13,8,August,September,1778,8890,9,Tuesday,Thursday
+549,C021,64,1,45160,0.812303241,45170,0.103587963,Erode,Raksha Bandhan,19,2,August,September,1878,1878,10,Tuesday,Friday
+569,C027,53,2,45166,0.583831019,45173,0.747476852,Purnia,Raksha Bandhan,14,17,August,September,1672,3344,7,Monday,Monday
+586,C068,64,5,45165,0.878217593,45173,0.687951389,Bilaspur,Raksha Bandhan,21,16,August,September,1878,9390,8,Sunday,Monday
+608,C030,55,5,45166,0.854340278,45170,0.30162037,Etawah,Raksha Bandhan,20,7,August,September,1904,9520,4,Monday,Friday
+615,C020,28,3,45163,0.882743056,45170,0.25712963,Allahabad,Raksha Bandhan,21,6,August,September,1778,5334,7,Friday,Friday
+624,C024,53,5,45167,0.388877315,45170,0.354097222,Ambala,Raksha Bandhan,9,8,August,September,1672,8360,3,Tuesday,Friday
+629,C032,28,5,45165,0.381261574,45173,0.646793981,Sangli-Miraj & Kupwad,Raksha Bandhan,9,15,August,September,1778,8890,8,Sunday,Monday
+636,C067,53,2,45163,0.304467593,45171,0.1484375,Panipat,Raksha Bandhan,7,3,August,September,1672,3344,8,Friday,Saturday
+652,C032,21,2,45166,0.820243056,45172,0.001053241,Phagwara,Raksha Bandhan,19,0,August,September,1561,3122,6,Monday,Sunday
+654,C019,64,2,45167,0.203645833,45171,0.028622685,Jhansi,Raksha Bandhan,4,0,August,September,1878,3756,4,Tuesday,Saturday
+698,C060,64,3,45167,0.864016204,45175,0.625150463,Ozhukarai,Raksha Bandhan,20,15,August,September,1878,5634,8,Tuesday,Wednesday
+703,C070,53,4,45161,0.6803125,45170,0.258391204,Khammam,Raksha Bandhan,16,6,August,September,1672,6688,9,Wednesday,Friday
+709,C016,53,5,45167,0.193113426,45176,0.728645833,Kolkata,Raksha Bandhan,4,17,August,September,1672,8360,9,Tuesday,Thursday
+731,C083,59,5,45163,0.500925926,45171,0.460081019,Bulandshahr,Raksha Bandhan,12,11,August,September,811,4055,8,Friday,Saturday
+741,C072,53,5,45161,0.532743056,45170,0.900914352,Siwan,Raksha Bandhan,12,21,August,September,1672,8360,9,Wednesday,Friday
+769,C029,28,2,45163,0.401145833,45171,0.840509259,Ongole,Raksha Bandhan,9,20,August,September,1778,3556,8,Friday,Saturday
+771,C056,9,2,45164,0.708414352,45170,0.454351852,Vijayanagaram,Raksha Bandhan,17,10,August,September,1605,3210,6,Saturday,Friday
+817,C066,21,2,45166,0.234027778,45170,0.920173611,Jalandhar,Raksha Bandhan,5,22,August,September,1561,3122,4,Monday,Friday
+823,C087,64,3,45165,0.641261574,45170,0.619907407,Alappuzha,Raksha Bandhan,15,14,August,September,1878,5634,5,Sunday,Friday
+856,C077,21,2,45165,0.736238426,45171,0.678356481,Kanpur,Raksha Bandhan,17,16,August,September,1561,3122,6,Sunday,Saturday
+873,C027,64,4,45164,0.45625,45174,0.6565625,Nandyal,Raksha Bandhan,10,15,August,September,1878,7512,10,Saturday,Tuesday
+882,C089,64,2,45167,0.231018519,45177,0.677002315,Srikakulam,Raksha Bandhan,5,16,August,September,1878,3756,10,Tuesday,Friday
+897,C031,34,5,45163,0.328715278,45170,0.585300926,Dhule,Raksha Bandhan,7,14,August,September,1335,6675,7,Friday,Friday
+910,C066,55,4,45164,0.08568287,45173,0.710532407,Kamarhati,Raksha Bandhan,2,17,August,September,1904,7616,9,Saturday,Monday
+912,C062,9,4,45167,0.13193287,45175,0.48349537,Ghaziabad,Raksha Bandhan,3,11,August,September,1605,6420,8,Tuesday,Wednesday
+938,C005,59,3,45167,0.758900463,45177,0.053854167,Ratlam,Raksha Bandhan,18,1,August,September,811,2433,10,Tuesday,Friday
+956,C037,34,5,45167,0.203055556,45172,0.620462963,Sagar,Raksha Bandhan,4,14,August,September,1335,6675,5,Tuesday,Sunday
+968,C002,9,2,45163,0.996782407,45170,0.850127315,Jaunpur,Raksha Bandhan,23,20,August,September,1605,3210,7,Friday,Friday
+969,C004,42,4,45168,0.955949074,45172,0.140960648,Khammam,All Occasions,22,3,August,September,1744,6976,4,Wednesday,Sunday
+77,C028,42,3,45143,0.046655093,45151,0.681157407,Kanpur,All Occasions,1,16,August,August,1744,5232,8,Saturday,Sunday
+82,C038,70,3,45142,0.918113426,45143,0.589039352,Gwalior,Birthday,22,14,August,August,866,2598,1,Friday,Saturday
+165,C058,40,5,45144,0.549490741,45148,0.359189815,Lucknow,Anniversary,13,8,August,August,1923,9615,4,Sunday,Thursday
+193,C038,42,4,45154,0.989224537,45157,0.106967593,Nanded,All Occasions,23,2,August,August,1744,6976,3,Wednesday,Saturday
+196,C063,30,2,45143,0.401273148,45151,0.373680556,Begusarai,Anniversary,9,8,August,August,751,1502,8,Saturday,Sunday
+199,C093,70,5,45154,0.079513889,45157,0.684016204,Bareilly,Birthday,1,16,August,August,866,4330,3,Wednesday,Saturday
+268,C053,38,1,45152,0.323599537,45161,0.703819444,Katni,Birthday,7,16,August,August,562,562,9,Monday,Wednesday
+284,C057,17,1,45148,0.675740741,45154,0.473576389,Aurangabad,Anniversary,16,11,August,August,1899,1899,6,Thursday,Wednesday
+310,C061,38,3,45158,0.516921296,45162,0.654722222,Bhalswa Jahangir Pur,Birthday,12,15,August,August,562,1686,4,Sunday,Thursday
+369,C014,63,3,45145,0.308148148,45153,0.186458333,Jammu,All Occasions,7,4,August,August,1348,4044,8,Monday,Tuesday
+421,C066,38,4,45146,0.844791667,45150,0.794444444,Serampore,Birthday,20,19,August,August,562,2248,4,Tuesday,Saturday
+481,C044,12,5,45159,0.000613426,45163,0.775289352,Bhiwandi,Anniversary,0,18,August,August,672,3360,4,Monday,Friday
+495,C007,20,1,45166,0.737835648,45167,0.95244213,Pimpri-Chinchwad,Anniversary,17,22,August,August,697,697,1,Monday,Tuesday
+524,C084,45,1,45153,0.579791667,45160,0.52068287,Jalandhar,Birthday,13,12,August,August,722,722,7,Tuesday,Tuesday
+530,C008,5,2,45157,0.448159722,45165,0.01662037,Delhi,All Occasions,10,0,August,August,1444,2888,8,Saturday,Sunday
+553,C084,39,2,45160,0.057418981,45164,0.321840278,Alwar,All Occasions,1,7,August,August,387,774,4,Tuesday,Saturday
+560,C019,39,2,45142,0.536342593,45147,0.410335648,Avadi,All Occasions,12,9,August,August,387,774,5,Friday,Wednesday
+562,C066,24,4,45147,0.387731481,45154,0.065358796,Ranchi,Birthday,9,1,August,August,535,2140,7,Wednesday,Wednesday
+692,C035,15,2,45149,0.295081019,45156,0.280983796,Tiruppur,Anniversary,7,6,August,August,1488,2976,7,Friday,Friday
+716,C076,40,3,45157,0.970972222,45164,0.069421296,Berhampore,Anniversary,23,1,August,August,1923,5769,7,Saturday,Saturday
+764,C039,65,3,45139,0.833055556,45143,0.392083333,Berhampur,All Occasions,19,9,August,August,1895,5685,4,Tuesday,Saturday
+855,C033,57,5,45145,0.99318287,45155,0.844247685,Allahabad,Birthday,23,20,August,August,1582,7910,10,Monday,Thursday
+866,C021,15,5,45148,0.837928241,45149,0.335196759,Medininagar,Anniversary,20,8,August,August,1488,7440,1,Thursday,Friday
+868,C099,32,1,45160,0.04255787,45168,0.423055556,Anand,Birthday,1,10,August,August,1792,1792,8,Tuesday,Wednesday
+889,C050,36,3,45154,0.963009259,45156,0.420162037,Bangalore,Birthday,23,10,August,August,203,609,2,Wednesday,Friday
+984,C058,65,1,45141,0.938217593,45145,0.693877315,Ballia,All Occasions,22,16,August,August,1895,1895,4,Thursday,Monday
+6,C040,28,4,45158,0.924710648,45164,0.796365741,Sirsa,Raksha Bandhan,22,19,August,August,1778,7112,6,Sunday,Saturday
+9,C044,27,4,45158,0.986006944,45167,0.999930556,Rajkot,Raksha Bandhan,23,23,August,August,548,2192,9,Sunday,Tuesday
+27,C063,9,2,45160,0.469768519,45168,0.332777778,Raipur,Raksha Bandhan,11,7,August,August,1605,3210,8,Tuesday,Wednesday
+53,C045,9,5,45158,0.351215278,45165,0.249664352,Kozhikode,Raksha Bandhan,8,5,August,August,1605,8025,7,Sunday,Sunday
+71,C013,9,5,45158,0.688958333,45166,0.563564815,Karnal,Raksha Bandhan,16,13,August,August,1605,8025,8,Sunday,Monday
+15,C069,21,5,45164,0.119895833,45168,0.560243056,Pune,Raksha Bandhan,2,13,August,August,1561,7805,4,Saturday,Wednesday
+68,C050,34,4,45163,0.947199074,45169,0.896689815,Ahmedabad,Raksha Bandhan,22,21,August,August,1335,5340,6,Friday,Thursday
+117,C033,59,3,45158,0.784780093,45160,0.154872685,Loni,Raksha Bandhan,18,3,August,August,811,2433,2,Sunday,Tuesday
+150,C092,27,5,45164,0.304363426,45167,0.705706019,Bidar,Raksha Bandhan,7,16,August,August,548,2740,3,Saturday,Tuesday
+180,C058,55,2,45162,0.694826389,45165,0.36474537,Nellore,Raksha Bandhan,16,8,August,August,1904,3808,3,Thursday,Sunday
+192,C060,64,5,45158,0.519814815,45159,0.091180556,Vijayanagaram,Raksha Bandhan,12,2,August,August,1878,9390,1,Sunday,Monday
+201,C004,55,4,45162,0.194606481,45168,0.161435185,Dewas,Raksha Bandhan,4,3,August,August,1904,7616,6,Thursday,Wednesday
+217,C042,53,4,45165,0.128171296,45168,0.696053241,Rajkot,Raksha Bandhan,3,16,August,August,1672,6688,3,Sunday,Wednesday
+221,C076,28,4,45159,0.091018519,45168,0.583738426,Naihati,Raksha Bandhan,2,14,August,August,1778,7112,9,Monday,Wednesday
+224,C028,34,1,45162,0.876365741,45167,0.087962963,Suryapet,Raksha Bandhan,21,2,August,August,1335,1335,5,Thursday,Tuesday
+231,C093,64,3,45162,0.385625,45166,0.884039352,Proddatur,Raksha Bandhan,9,21,August,August,1878,5634,4,Thursday,Monday
+232,C044,28,3,45160,0.504270833,45161,0.375023148,Nadiad,Raksha Bandhan,12,9,August,August,1778,5334,1,Tuesday,Wednesday
+233,C098,64,4,45164,0.927303241,45168,0.171979167,Nizamabad,Raksha Bandhan,22,4,August,August,1878,7512,4,Saturday,Wednesday
+237,C024,55,1,45164,0.391585648,45168,0.346759259,Sasaram,Raksha Bandhan,9,8,August,August,1904,1904,4,Saturday,Wednesday
+242,C012,21,1,45161,0.433865741,45169,0.668425926,Amroha,Raksha Bandhan,10,16,August,August,1561,1561,8,Wednesday,Thursday
+257,C077,21,3,45160,0.654849537,45162,0.944201389,Chinsurah,Raksha Bandhan,15,22,August,August,1561,4683,2,Tuesday,Thursday
+277,C062,34,5,45161,0.803240741,45167,0.659930556,Bhilai,Raksha Bandhan,19,15,August,August,1335,6675,6,Wednesday,Tuesday
+288,C035,34,2,45159,0.665949074,45161,0.862916667,Ballia,Raksha Bandhan,15,20,August,August,1335,2670,2,Monday,Wednesday
+312,C044,9,1,45160,0.769166667,45165,0.250856481,Akola,Raksha Bandhan,18,6,August,August,1605,1605,5,Tuesday,Sunday
+319,C044,64,1,45158,0.266053241,45164,0.947488426,Bikaner,Raksha Bandhan,6,22,August,August,1878,1878,6,Sunday,Saturday
+336,C069,53,1,45158,0.189166667,45163,0.829363426,Tiruchirappalli,Raksha Bandhan,4,19,August,August,1672,1672,5,Sunday,Friday
+338,C087,21,3,45158,0.594340278,45166,0.065358796,Panchkula,Raksha Bandhan,14,1,August,August,1561,4683,8,Sunday,Monday
+341,C028,9,2,45158,0.621238426,45168,0.939039352,Ongole,Raksha Bandhan,14,22,August,August,1605,3210,10,Sunday,Wednesday
+353,C089,55,2,45159,0.405173611,45162,0.591828704,Korba,Raksha Bandhan,9,14,August,August,1904,3808,3,Monday,Thursday
+358,C040,55,1,45158,0.70380787,45163,0.562928241,Secunderabad,Raksha Bandhan,16,13,August,August,1904,1904,5,Sunday,Friday
+377,C013,55,4,45164,0.357013889,45169,0.491076389,Ghaziabad,Raksha Bandhan,8,11,August,August,1904,7616,5,Saturday,Thursday
+404,C055,21,5,45160,0.330092593,45162,0.935636574,South Dumdum,Raksha Bandhan,7,22,August,August,1561,7805,2,Tuesday,Thursday
+413,C050,59,5,45160,0.230752315,45168,0.848043981,Amritsar,Raksha Bandhan,5,20,August,August,811,4055,8,Tuesday,Wednesday
+422,C044,53,2,45158,0.12775463,45167,0.170590278,Eluru,Raksha Bandhan,3,4,August,August,1672,3344,9,Sunday,Tuesday
+429,C007,9,5,45160,0.949270833,45169,0.530462963,Bahraich,Raksha Bandhan,22,12,August,August,1605,8025,9,Tuesday,Thursday
+430,C045,27,2,45165,0.305902778,45169,0.41912037,Rourkela,Raksha Bandhan,7,10,August,August,548,1096,4,Sunday,Thursday
+435,C017,53,4,45160,0.727430556,45165,0.524467593,Mira-Bhayandar,Raksha Bandhan,17,12,August,August,1672,6688,5,Tuesday,Sunday
+437,C010,55,1,45162,0.271377315,45165,0.95599537,Uluberia,Raksha Bandhan,6,22,August,August,1904,1904,3,Thursday,Sunday
+438,C037,34,2,45164,0.393946759,45165,0.137858796,Tadepalligudem,Raksha Bandhan,9,3,August,August,1335,2670,1,Saturday,Sunday
+453,C032,27,2,45159,0.424756944,45169,0.5196875,Varanasi,Raksha Bandhan,10,12,August,August,548,1096,10,Monday,Thursday
+465,C029,55,5,45161,0.990416667,45164,0.56193287,Madurai,Raksha Bandhan,23,13,August,August,1904,9520,3,Wednesday,Saturday
+483,C007,59,2,45166,0.267395833,45169,0.212523148,Pallavaram,Raksha Bandhan,6,5,August,August,811,1622,3,Monday,Thursday
+488,C025,21,4,45166,0.926041667,45167,0.226956019,Nizamabad,Raksha Bandhan,22,5,August,August,1561,6244,1,Monday,Tuesday
+528,C001,27,3,45165,0.209212963,45168,0.710914352,Tirunelveli,Raksha Bandhan,5,17,August,August,548,1644,3,Sunday,Wednesday
+529,C013,64,2,45163,0.657962963,45166,0.587013889,Madurai,Raksha Bandhan,15,14,August,August,1878,3756,3,Friday,Monday
+536,C048,59,3,45163,0.635324074,45168,0.467476852,Kota,Raksha Bandhan,15,11,August,August,811,2433,5,Friday,Wednesday
+545,C083,9,5,45158,0.079768519,45164,0.338414352,Ratlam,Raksha Bandhan,1,8,August,August,1605,8025,6,Sunday,Saturday
+558,C091,64,3,45160,0.029837963,45163,0.017268519,Muzaffarpur,Raksha Bandhan,0,0,August,August,1878,5634,3,Tuesday,Friday
+576,C074,53,4,45158,0.294872685,45164,0.334710648,Aurangabad,Raksha Bandhan,7,8,August,August,1672,6688,6,Sunday,Saturday
+584,C089,34,2,45161,0.319097222,45165,0.673935185,Eluru,Raksha Bandhan,7,16,August,August,1335,2670,4,Wednesday,Sunday
+599,C004,34,1,45159,0.814166667,45162,0.50962963,Naihati,Raksha Bandhan,19,12,August,August,1335,1335,3,Monday,Thursday
+611,C056,28,2,45160,0.887384259,45166,0.144097222,Latur,Raksha Bandhan,21,3,August,August,1778,3556,6,Tuesday,Monday
+621,C070,64,3,45158,0.303506944,45166,0.064456019,Ahmedabad,Raksha Bandhan,7,1,August,August,1878,5634,8,Sunday,Monday
+640,C089,59,3,45161,0.261701389,45169,0.796770833,Bathinda,Raksha Bandhan,6,19,August,August,811,2433,8,Wednesday,Thursday
+647,C069,21,5,45163,0.708622685,45164,0.061851852,Anantapuram,Raksha Bandhan,17,1,August,August,1561,7805,1,Friday,Saturday
+658,C061,21,3,45160,0.871481481,45169,0.370902778,Srikakulam,Raksha Bandhan,20,8,August,August,1561,4683,9,Tuesday,Thursday
+668,C009,55,2,45159,0.423530093,45168,0.689456019,Ajmer,Raksha Bandhan,10,16,August,August,1904,3808,9,Monday,Wednesday
+683,C024,27,3,45161,0.893726852,45168,0.80912037,Surendranagar Dudhrej,Raksha Bandhan,21,19,August,August,548,1644,7,Wednesday,Wednesday
+704,C061,55,4,45167,0.102199074,45168,0.567060185,Jalgaon,Raksha Bandhan,2,13,August,August,1904,7616,1,Tuesday,Wednesday
+726,C044,34,2,45159,0.798969907,45169,0.787824074,Hindupur,Raksha Bandhan,19,18,August,August,1335,2670,10,Monday,Thursday
+730,C097,59,1,45160,0.086145833,45163,0.944097222,Sangli-Miraj & Kupwad,Raksha Bandhan,2,22,August,August,811,811,3,Tuesday,Friday
+742,C089,53,5,45162,0.826469907,45164,0.665347222,Panchkula,Raksha Bandhan,19,15,August,August,1672,8360,2,Thursday,Saturday
+783,C024,55,5,45166,0.188506944,45167,0.215868056,Visakhapatnam,Raksha Bandhan,4,5,August,August,1904,9520,1,Monday,Tuesday
+787,C069,9,1,45163,0.904305556,45165,0.590960648,Ambarnath,Raksha Bandhan,21,14,August,August,1605,1605,2,Friday,Sunday
+788,C099,53,3,45162,0.207615741,45165,0.372824074,Durgapur,Raksha Bandhan,4,8,August,August,1672,5016,3,Thursday,Sunday
+808,C002,9,2,45167,0.650451389,45168,0.424548611,Raurkela Industrial Township,Raksha Bandhan,15,10,August,August,1605,3210,1,Tuesday,Wednesday
+819,C052,55,5,45160,0.545405093,45162,0.064212963,Kottayam,Raksha Bandhan,13,1,August,August,1904,9520,2,Tuesday,Thursday
+820,C033,64,3,45160,0.244247685,45164,0.203043981,Hapur,Raksha Bandhan,5,4,August,August,1878,5634,4,Tuesday,Saturday
+827,C086,9,1,45167,0.924143519,45168,0.036053241,Surendranagar Dudhrej,Raksha Bandhan,22,0,August,August,1605,1605,1,Tuesday,Wednesday
+850,C092,21,4,45161,0.968946759,45163,0.438206019,Darbhanga,Raksha Bandhan,23,10,August,August,1561,6244,2,Wednesday,Friday
+880,C044,34,5,45167,0.926689815,45169,0.20474537,Purnia,Raksha Bandhan,22,4,August,August,1335,6675,2,Tuesday,Thursday
+881,C015,28,4,45159,0.637291667,45166,0.541493056,New Delhi,Raksha Bandhan,15,12,August,August,1778,7112,7,Monday,Monday
+886,C045,53,3,45159,0.349328704,45163,0.82818287,Nanded,Raksha Bandhan,8,19,August,August,1672,5016,4,Monday,Friday
+901,C043,27,4,45160,0.330300926,45165,0.064236111,Deoghar,Raksha Bandhan,7,1,August,August,548,2192,5,Tuesday,Sunday
+908,C090,28,5,45160,0.660706019,45162,0.951481481,Ozhukarai,Raksha Bandhan,15,22,August,August,1778,8890,2,Tuesday,Thursday
+934,C022,27,5,45160,0.028518519,45161,0.360324074,Agartala,Raksha Bandhan,0,8,August,August,548,2740,1,Tuesday,Wednesday
+935,C046,27,5,45158,0.4015625,45167,0.721261574,Kurnool,Raksha Bandhan,9,17,August,August,548,2740,9,Sunday,Tuesday
+939,C084,9,4,45158,0.871585648,45159,0.191828704,Bhilai,Raksha Bandhan,20,4,August,August,1605,6420,1,Sunday,Monday
+979,C030,9,4,45166,0.779907407,45169,0.842337963,Adoni,Raksha Bandhan,18,20,August,August,1605,6420,3,Monday,Thursday
+1000,C012,27,4,45163,0.05744213,45169,0.290266204,Tadepalligudem,Raksha Bandhan,1,6,August,August,548,2192,6,Friday,Thursday
